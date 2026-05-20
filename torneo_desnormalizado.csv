@@ -1,0 +1,2586 @@
+Season,DayNum,WTeamID,WScore,LTeamID,LScore,WLoc,NumOT,WinnerTeam,LoserTeam
+1985,136,1116,63,1234,54,N,0,Arkansas,Iowa
+1985,136,1120,59,1345,58,N,0,Auburn,Purdue
+1985,136,1207,68,1250,43,N,0,Georgetown,Lehigh
+1985,136,1229,58,1425,55,N,0,Illinois St,USC
+1985,136,1242,49,1325,38,N,0,Kansas,Ohio
+1985,136,1246,66,1449,58,N,0,Kentucky,Washington
+1985,136,1256,78,1338,54,N,0,Louisiana Tech,Pittsburgh
+1985,136,1260,59,1233,58,N,0,Loyola-Chicago,Iona
+1985,136,1314,76,1292,57,N,0,North Carolina,MTSU
+1985,136,1323,79,1333,70,N,0,Notre Dame,Oregon St
+1985,136,1326,75,1235,64,N,0,Ohio St,Iowa St
+1985,136,1328,96,1299,83,N,0,Oklahoma,NC A&T
+1985,136,1374,85,1330,68,N,0,SMU,Old Dominion
+1985,136,1385,83,1380,59,N,0,St John's,Southern Univ
+1985,136,1396,60,1439,57,N,0,Temple,Virginia Tech
+1985,136,1424,85,1361,80,N,0,UNLV,San Diego St
+1985,137,1104,50,1112,41,N,0,Alabama,Arizona
+1985,137,1130,55,1403,53,N,0,Boston College,Texas Tech
+1985,137,1181,75,1337,62,N,0,Duke,Pepperdine
+1985,137,1208,67,1455,59,N,0,Georgia,Wichita St
+1985,137,1210,65,1273,58,N,0,Georgia Tech,Mercer
+1985,137,1228,76,1318,57,N,0,Illinois,Northeastern
+1985,137,1268,69,1275,68,N,1,Maryland,Miami OH
+1985,137,1272,67,1335,55,N,0,Memphis,Penn
+1985,137,1276,59,1192,55,N,0,Michigan,F Dickinson
+1985,137,1298,78,1261,55,N,0,Navy,LSU
+1985,137,1301,65,1305,56,N,0,NC State,Nevada
+1985,137,1393,70,1177,65,N,0,Syracuse,DePaul
+1985,137,1412,70,1277,68,N,0,UAB,Michigan St
+1985,137,1431,79,1409,75,N,0,UTEP,Tulsa
+1985,137,1433,81,1267,65,N,0,VCU,Marshall
+1985,137,1437,51,1173,49,N,0,Villanova,Dayton
+1985,138,1120,66,1242,64,N,0,Auburn,Kansas
+1985,138,1207,63,1396,46,N,0,Georgetown,Temple
+1985,138,1246,64,1424,61,N,0,Kentucky,UNLV
+1985,138,1256,79,1326,67,N,0,Louisiana Tech,Ohio St
+1985,138,1260,70,1374,57,N,0,Loyola-Chicago,SMU
+1985,138,1314,60,1323,58,N,0,North Carolina,Notre Dame
+1985,138,1328,75,1229,69,N,0,Oklahoma,Illinois St
+1985,138,1385,68,1116,65,N,0,St John's,Arkansas
+1985,139,1104,63,1433,59,N,0,Alabama,VCU
+1985,139,1130,74,1181,73,N,0,Boston College,Duke
+1985,139,1210,70,1393,53,N,0,Georgia Tech,Syracuse
+1985,139,1228,74,1208,58,N,0,Illinois,Georgia
+1985,139,1268,64,1298,59,N,0,Maryland,Navy
+1985,139,1272,67,1412,66,N,1,Memphis,UAB
+1985,139,1301,86,1431,73,N,0,NC State,UTEP
+1985,139,1437,59,1276,55,N,0,Villanova,Michigan
+1985,143,1207,65,1260,53,N,0,Georgetown,Loyola-Chicago
+1985,143,1210,61,1228,53,N,0,Georgia Tech,Illinois
+1985,143,1272,59,1130,57,N,0,Memphis,Boston College
+1985,143,1328,86,1256,84,N,1,Oklahoma,Louisiana Tech
+1985,144,1301,61,1104,55,N,0,NC State,Alabama
+1985,144,1314,62,1120,56,N,0,North Carolina,Auburn
+1985,144,1385,86,1246,70,N,0,St John's,Kentucky
+1985,144,1437,46,1268,43,N,0,Villanova,Maryland
+1985,145,1207,60,1210,54,N,0,Georgetown,Georgia Tech
+1985,145,1272,63,1328,61,N,0,Memphis,Oklahoma
+1985,146,1385,69,1301,60,N,0,St John's,NC State
+1985,146,1437,56,1314,44,N,0,Villanova,North Carolina
+1985,152,1207,77,1385,59,N,0,Georgetown,St John's
+1985,152,1437,52,1272,45,N,0,Villanova,Memphis
+1985,154,1437,66,1207,64,N,0,Villanova,Georgetown
+1986,136,1133,83,1431,65,N,0,Bradley,UTEP
+1986,136,1177,72,1438,68,N,0,DePaul,Virginia
+1986,136,1181,85,1290,78,N,0,Duke,MS Valley St
+1986,136,1207,70,1403,64,N,0,Georgetown,Texas Tech
+1986,136,1210,68,1265,53,N,0,Georgia Tech,Marist
+1986,136,1242,71,1299,46,N,0,Kansas,NC A&T
+1986,136,1257,93,1180,73,N,0,Louisville,Drexel
+1986,136,1261,94,1345,87,N,1,LSU,Purdue
+1986,136,1272,95,1123,63,N,0,Memphis,Ball St
+1986,136,1277,72,1449,70,N,0,Michigan St,Washington
+1986,136,1314,84,1428,72,N,0,North Carolina,Utah
+1986,136,1328,80,1318,74,N,0,Oklahoma,Northeastern
+1986,136,1330,72,1452,64,N,0,Old Dominion,West Virginia
+1986,136,1396,61,1239,50,N,1,Temple,Jacksonville
+1986,136,1412,66,1281,64,N,0,UAB,Missouri
+1986,136,1437,71,1439,62,N,0,Villanova,Virginia Tech
+1986,137,1104,97,1462,80,N,0,Alabama,Xavier
+1986,137,1114,90,1323,83,N,0,Ark Little Rock,Notre Dame
+1986,137,1120,73,1112,63,N,0,Auburn,Arizona
+1986,137,1156,83,1231,79,N,0,Cleveland St,Indiana
+1986,137,1228,75,1193,51,N,0,Illinois,Fairfield
+1986,137,1235,81,1275,79,N,1,Iowa St,Miami OH
+1986,137,1246,75,1172,55,N,0,Kentucky,Davidson
+1986,137,1268,69,1337,64,N,0,Maryland,Pepperdine
+1986,137,1276,70,1103,64,N,0,Michigan,Akron
+1986,137,1298,87,1409,68,N,0,Navy,Tulsa
+1986,137,1301,66,1234,64,N,0,NC State,Iowa
+1986,137,1385,83,1286,74,N,0,St John's,Montana St
+1986,137,1386,60,1350,59,N,0,St Joseph's PA,Richmond
+1986,137,1393,101,1135,52,N,0,Syracuse,Brown
+1986,137,1424,74,1419,51,N,0,UNLV,ULM
+1986,137,1443,67,1304,59,N,0,WKU,Nebraska
+1986,138,1177,74,1328,69,N,0,DePaul,Oklahoma
+1986,138,1181,89,1330,61,N,0,Duke,Old Dominion
+1986,138,1210,66,1437,61,N,0,Georgia Tech,Villanova
+1986,138,1242,65,1396,43,N,0,Kansas,Temple
+1986,138,1257,82,1133,68,N,0,Louisville,Bradley
+1986,138,1261,83,1272,81,N,0,LSU,Memphis
+1986,138,1277,80,1207,68,N,0,Michigan St,Georgetown
+1986,138,1314,77,1412,59,N,0,North Carolina,UAB
+1986,139,1104,58,1228,56,N,0,Alabama,Illinois
+1986,139,1120,81,1385,65,N,0,Auburn,St John's
+1986,139,1156,75,1386,69,N,0,Cleveland St,St Joseph's PA
+1986,139,1235,72,1276,69,N,0,Iowa St,Michigan
+1986,139,1246,71,1443,64,N,0,Kentucky,WKU
+1986,139,1298,97,1393,85,N,0,Navy,Syracuse
+1986,139,1301,80,1114,66,N,1,NC State,Ark Little Rock
+1986,139,1424,70,1268,64,N,0,UNLV,Maryland
+1986,143,1120,70,1424,63,N,0,Auburn,UNLV
+1986,143,1246,68,1104,63,N,0,Kentucky,Alabama
+1986,143,1257,94,1314,79,N,0,Louisville,North Carolina
+1986,143,1261,70,1210,64,N,0,LSU,Georgia Tech
+1986,144,1181,74,1177,67,N,0,Duke,DePaul
+1986,144,1242,96,1277,86,N,1,Kansas,Michigan St
+1986,144,1298,71,1156,70,N,0,Navy,Cleveland St
+1986,144,1301,70,1235,66,N,0,NC State,Iowa St
+1986,145,1257,84,1120,76,N,0,Louisville,Auburn
+1986,145,1261,59,1246,57,N,0,LSU,Kentucky
+1986,146,1181,71,1298,50,N,0,Duke,Navy
+1986,146,1242,75,1301,67,N,0,Kansas,NC State
+1986,152,1181,71,1242,67,N,0,Duke,Kansas
+1986,152,1257,88,1261,77,N,0,Louisville,LSU
+1986,154,1257,72,1181,69,N,0,Louisville,Duke
+1987,136,1104,88,1299,71,N,0,Alabama,NC A&T
+1987,136,1120,62,1360,61,N,0,Auburn,San Diego
+1987,136,1122,68,1228,67,N,0,Austin Peay,Illinois
+1987,136,1181,58,1401,51,N,0,Duke,Texas A&M
+1987,136,1231,92,1193,58,N,0,Indiana,Fairfield
+1987,136,1243,82,1208,79,N,1,Kansas St,Georgia
+1987,136,1276,97,1298,82,N,0,Michigan,Navy
+1987,136,1309,83,1140,79,N,0,New Orleans,BYU
+1987,136,1314,113,1335,82,N,0,North Carolina,Penn
+1987,136,1323,84,1292,71,N,0,Notre Dame,MTSU
+1987,136,1344,90,1412,68,N,0,Providence,UAB
+1987,136,1395,76,1267,60,N,0,TCU,Marshall
+1987,136,1417,92,1141,73,N,0,UCLA,C Michigan
+1987,136,1424,95,1226,70,N,0,UNLV,Idaho St
+1987,136,1461,64,1438,60,N,0,Wyoming,Virginia
+1987,136,1462,70,1281,69,N,0,Xavier,Missouri
+1987,137,1177,76,1256,62,N,0,DePaul,Louisiana Tech
+1987,137,1196,82,1301,70,N,0,Florida,NC State
+1987,137,1207,75,1137,53,N,0,Georgetown,Bucknell
+1987,137,1234,99,1365,76,N,0,Iowa,Santa Clara
+1987,137,1242,66,1222,55,N,0,Kansas,Houston
+1987,137,1261,85,1210,79,N,0,LSU,Georgia Tech
+1987,137,1283,65,1155,60,N,0,Missouri St,Clemson
+1987,137,1326,91,1246,77,N,0,Ohio St,Kentucky
+1987,137,1328,74,1409,69,N,0,Oklahoma,Tulsa
+1987,137,1338,93,1265,68,N,0,Pittsburgh,Marist
+1987,137,1345,104,1318,95,N,0,Purdue,Northeastern
+1987,137,1385,57,1455,55,N,0,St John's,Wichita St
+1987,137,1393,79,1204,73,N,0,Syracuse,Ga Southern
+1987,137,1396,75,1380,56,N,0,Temple,Southern Univ
+1987,137,1431,98,1112,91,N,1,UTEP,Arizona
+1987,137,1443,64,1452,62,N,0,WKU,West Virginia
+1987,138,1104,101,1309,76,N,0,Alabama,New Orleans
+1987,138,1181,65,1462,60,N,0,Duke,Xavier
+1987,138,1231,107,1120,90,N,0,Indiana,Auburn
+1987,138,1314,109,1276,97,N,0,North Carolina,Michigan
+1987,138,1323,58,1395,57,N,0,Notre Dame,TCU
+1987,138,1344,90,1122,87,N,1,Providence,Austin Peay
+1987,138,1424,80,1243,61,N,0,UNLV,Kansas St
+1987,138,1461,78,1417,68,N,0,Wyoming,UCLA
+1987,139,1177,83,1385,75,N,1,DePaul,St John's
+1987,139,1196,85,1345,66,N,0,Florida,Purdue
+1987,139,1207,82,1326,79,N,0,Georgetown,Ohio St
+1987,139,1234,84,1431,82,N,0,Iowa,UTEP
+1987,139,1242,67,1283,63,N,0,Kansas,Missouri St
+1987,139,1261,72,1396,62,N,0,LSU,Temple
+1987,139,1328,96,1338,93,N,0,Oklahoma,Pittsburgh
+1987,139,1393,104,1443,86,N,0,Syracuse,WKU
+1987,143,1207,70,1242,57,N,0,Georgetown,Kansas
+1987,143,1314,74,1323,68,N,0,North Carolina,Notre Dame
+1987,143,1344,103,1104,82,N,0,Providence,Alabama
+1987,143,1393,87,1196,81,N,0,Syracuse,Florida
+1987,144,1231,88,1181,82,N,0,Indiana,Duke
+1987,144,1234,93,1328,91,N,1,Iowa,Oklahoma
+1987,144,1261,63,1177,58,N,0,LSU,DePaul
+1987,144,1424,92,1461,78,N,0,UNLV,Wyoming
+1987,145,1344,88,1207,73,N,0,Providence,Georgetown
+1987,145,1393,79,1314,75,N,0,Syracuse,North Carolina
+1987,146,1231,77,1261,76,N,0,Indiana,LSU
+1987,146,1424,84,1234,81,N,0,UNLV,Iowa
+1987,152,1231,97,1424,93,N,0,Indiana,UNLV
+1987,152,1393,77,1344,63,N,0,Syracuse,Providence
+1987,154,1231,74,1393,73,N,0,Indiana,Syracuse
+1988,136,1120,90,1133,86,N,0,Auburn,Bradley
+1988,136,1140,98,1150,92,N,1,BYU,Charlotte
+1988,136,1177,83,1455,62,N,0,DePaul,Wichita St
+1988,136,1181,85,1131,69,N,0,Duke,Boston Univ
+1988,136,1196,62,1385,59,N,0,Florida,St John's
+1988,136,1243,66,1247,53,N,0,Kansas St,La Salle
+1988,136,1257,70,1333,61,N,0,Louisville,Oregon St
+1988,136,1258,119,1461,115,N,0,Loy Marymount,Wyoming
+1988,136,1272,75,1124,60,N,0,Memphis,Baylor
+1988,136,1276,63,1129,58,N,0,Michigan,Boise St
+1988,136,1314,83,1317,65,N,0,North Carolina,North Texas
+1988,136,1328,94,1151,66,N,0,Oklahoma,Chattanooga
+1988,136,1345,94,1192,79,N,0,Purdue,F Dickinson
+1988,136,1348,87,1281,80,N,0,Rhode Island,Missouri
+1988,136,1374,83,1323,75,N,0,SMU,Notre Dame
+1988,136,1393,69,1299,55,N,0,Syracuse,NC A&T
+1988,137,1112,90,1165,50,N,0,Arizona,Cornell
+1988,137,1207,66,1261,63,N,0,Georgetown,LSU
+1988,137,1210,90,1235,78,N,0,Georgia Tech,Iowa St
+1988,137,1228,81,1427,72,N,0,Illinois,UT San Antonio
+1988,137,1234,102,1199,98,N,0,Iowa,Florida St
+1988,137,1242,85,1462,72,N,0,Kansas,Xavier
+1988,137,1246,99,1380,84,N,0,Kentucky,Southern Univ
+1988,137,1268,92,1364,82,N,0,Maryland,UC Santa Barbara
+1988,137,1293,78,1301,75,N,0,Murray St,NC State
+1988,137,1338,108,1185,90,N,0,Pittsburgh,E Michigan
+1988,137,1350,72,1231,69,N,0,Richmond,Indiana
+1988,137,1371,80,1431,64,N,0,Seton Hall,UTEP
+1988,137,1396,87,1250,73,N,0,Temple,Lehigh
+1988,137,1424,54,1283,50,N,0,UNLV,Missouri St
+1988,137,1435,80,1429,77,N,0,Vanderbilt,Utah St
+1988,137,1437,82,1116,74,N,0,Villanova,Arkansas
+1988,138,1181,94,1374,79,N,0,Duke,SMU
+1988,138,1243,66,1177,58,N,0,Kansas St,DePaul
+1988,138,1257,97,1140,76,N,0,Louisville,BYU
+1988,138,1276,108,1196,85,N,0,Michigan,Florida
+1988,138,1314,123,1258,97,N,0,North Carolina,Loy Marymount
+1988,138,1328,107,1120,87,N,0,Oklahoma,Auburn
+1988,138,1345,100,1272,73,N,0,Purdue,Memphis
+1988,138,1348,97,1393,94,N,0,Rhode Island,Syracuse
+1988,139,1112,84,1371,55,N,0,Arizona,Seton Hall
+1988,139,1234,104,1424,86,N,0,Iowa,UNLV
+1988,139,1242,61,1293,58,N,0,Kansas,Murray St
+1988,139,1246,90,1268,81,N,0,Kentucky,Maryland
+1988,139,1350,59,1210,55,N,0,Richmond,Georgia Tech
+1988,139,1396,74,1207,53,N,0,Temple,Georgetown
+1988,139,1435,80,1338,74,N,1,Vanderbilt,Pittsburgh
+1988,139,1437,66,1228,63,N,0,Villanova,Illinois
+1988,143,1181,73,1348,72,N,0,Duke,Rhode Island
+1988,143,1328,108,1257,98,N,0,Oklahoma,Louisville
+1988,143,1396,69,1350,47,N,0,Temple,Richmond
+1988,143,1437,80,1246,74,N,0,Villanova,Kentucky
+1988,144,1112,99,1234,79,N,0,Arizona,Iowa
+1988,144,1242,77,1435,64,N,0,Kansas,Vanderbilt
+1988,144,1243,73,1345,70,N,0,Kansas St,Purdue
+1988,144,1314,78,1276,69,N,0,North Carolina,Michigan
+1988,145,1181,63,1396,53,N,0,Duke,Temple
+1988,145,1328,78,1437,59,N,0,Oklahoma,Villanova
+1988,146,1112,70,1314,52,N,0,Arizona,North Carolina
+1988,146,1242,71,1243,58,N,0,Kansas,Kansas St
+1988,152,1242,66,1181,59,N,0,Kansas,Duke
+1988,152,1328,86,1112,78,N,0,Oklahoma,Arizona
+1988,154,1242,83,1328,79,N,0,Kansas,Oklahoma
+1989,136,1112,94,1352,60,N,0,Arizona,Robert Morris
+1989,136,1116,120,1258,101,N,0,Arkansas,Loy Marymount
+1989,136,1123,68,1338,64,N,0,Ball St,Pittsburgh
+1989,136,1155,83,1388,70,N,0,Clemson,St Mary's CA
+1989,136,1177,66,1272,63,N,0,DePaul,Memphis
+1989,136,1181,90,1354,69,N,0,Duke,S Carolina St
+1989,136,1228,77,1270,71,N,0,Illinois,McNeese St
+1989,136,1256,83,1247,74,N,0,Louisiana Tech,La Salle
+1989,136,1257,76,1114,71,N,0,Louisville,Ark Little Rock
+1989,136,1278,86,1243,75,N,0,Minnesota,Kansas St
+1989,136,1292,97,1199,83,N,0,MTSU,Florida St
+1989,136,1328,72,1190,71,N,0,Oklahoma,ETSU
+1989,136,1373,80,1390,78,N,0,Siena,Stanford
+1989,136,1424,68,1225,56,N,0,UNLV,Idaho
+1989,136,1438,100,1344,97,N,0,Virginia,Providence
+1989,136,1452,84,1397,68,N,0,West Virginia,Tennessee
+1989,137,1161,68,1196,46,N,0,Colorado St,Florida
+1989,137,1191,94,1333,90,N,1,Evansville,Oregon St
+1989,137,1207,50,1343,49,N,0,Georgetown,Princeton
+1989,137,1231,99,1206,85,N,0,Indiana,George Mason
+1989,137,1234,87,1353,73,N,0,Iowa,Rutgers
+1989,137,1276,92,1462,87,N,0,Michigan,Xavier
+1989,137,1281,85,1166,69,N,0,Missouri,Creighton
+1989,137,1301,81,1376,66,N,0,NC State,South Carolina
+1989,137,1314,93,1380,79,N,0,North Carolina,Southern Univ
+1989,137,1323,81,1435,65,N,0,Notre Dame,Vanderbilt
+1989,137,1371,60,1283,51,N,0,Seton Hall,Missouri St
+1989,137,1375,86,1104,84,N,0,South Alabama,Alabama
+1989,137,1393,104,1137,81,N,0,Syracuse,Bucknell
+1989,137,1400,76,1210,70,N,0,Texas,Georgia Tech
+1989,137,1417,84,1235,74,N,0,UCLA,Iowa St
+1989,137,1431,85,1261,74,N,0,UTEP,LSU
+1989,138,1112,94,1155,68,N,0,Arizona,Clemson
+1989,138,1181,70,1452,63,N,0,Duke,West Virginia
+1989,138,1228,72,1123,60,N,0,Illinois,Ball St
+1989,138,1257,93,1116,84,N,0,Louisville,Arkansas
+1989,138,1278,80,1373,67,N,0,Minnesota,Siena
+1989,138,1328,124,1256,81,N,0,Oklahoma,Louisiana Tech
+1989,138,1424,85,1177,70,N,0,UNLV,DePaul
+1989,138,1438,104,1292,88,N,0,Virginia,MTSU
+1989,139,1207,81,1323,74,N,0,Georgetown,Notre Dame
+1989,139,1231,92,1431,69,N,0,Indiana,UTEP
+1989,139,1276,91,1375,82,N,0,Michigan,South Alabama
+1989,139,1281,108,1400,89,N,0,Missouri,Texas
+1989,139,1301,102,1234,96,N,1,NC State,Iowa
+1989,139,1314,88,1417,81,N,0,North Carolina,UCLA
+1989,139,1371,87,1191,73,N,0,Seton Hall,Evansville
+1989,139,1393,65,1161,50,N,0,Syracuse,Colorado St
+1989,143,1276,92,1314,87,N,0,Michigan,North Carolina
+1989,143,1371,78,1231,65,N,0,Seton Hall,Indiana
+1989,143,1424,68,1112,67,N,0,UNLV,Arizona
+1989,143,1438,86,1328,80,N,0,Virginia,Oklahoma
+1989,144,1181,87,1278,70,N,0,Duke,Minnesota
+1989,144,1207,69,1301,61,N,0,Georgetown,NC State
+1989,144,1228,83,1257,69,N,0,Illinois,Louisville
+1989,144,1393,83,1281,80,N,0,Syracuse,Missouri
+1989,145,1276,102,1438,65,N,0,Michigan,Virginia
+1989,145,1371,84,1424,61,N,0,Seton Hall,UNLV
+1989,146,1181,85,1207,77,N,0,Duke,Georgetown
+1989,146,1228,89,1393,86,N,0,Illinois,Syracuse
+1989,152,1276,83,1228,81,N,0,Michigan,Illinois
+1989,152,1371,95,1181,78,N,0,Seton Hall,Duke
+1989,154,1276,80,1371,79,N,1,Michigan,Seton Hall
+1990,136,1116,68,1343,64,N,0,Arkansas,Princeton
+1990,136,1123,54,1333,53,N,0,Ball St,Oregon St
+1990,136,1143,65,1231,63,N,0,California,Indiana
+1990,136,1155,49,1140,47,N,0,Clemson,BYU
+1990,136,1163,76,1131,52,N,0,Connecticut,Boston Univ
+1990,136,1173,88,1228,86,N,0,Dayton,Illinois
+1990,136,1210,99,1190,83,N,0,Georgia Tech,ETSU
+1990,136,1247,79,1379,63,N,0,La Salle,Southern Miss
+1990,136,1257,78,1225,59,N,0,Louisville,Idaho
+1990,136,1261,70,1437,63,N,0,LSU,Villanova
+1990,136,1277,75,1293,71,N,1,Michigan St,Murray St
+1990,136,1314,83,1283,70,N,0,North Carolina,Missouri St
+1990,136,1326,84,1344,83,N,1,Ohio St,Providence
+1990,136,1328,77,1406,68,N,0,Oklahoma,Towson
+1990,136,1364,70,1222,66,N,0,UC Santa Barbara,Houston
+1990,136,1424,102,1114,72,N,0,UNLV,Ark Little Rock
+1990,137,1104,71,1161,54,N,0,Alabama,Colorado St
+1990,137,1112,79,1378,67,N,0,Arizona,South Florida
+1990,137,1181,81,1350,46,N,0,Duke,Richmond
+1990,137,1207,70,1411,52,N,0,Georgetown,TX Southern
+1990,137,1242,79,1352,71,N,0,Kansas,Robert Morris
+1990,137,1258,111,1308,92,N,0,Loy Marymount,New Mexico St
+1990,137,1276,76,1229,70,N,0,Michigan,Illinois St
+1990,137,1278,64,1431,61,N,1,Minnesota,UTEP
+1990,137,1320,74,1281,71,N,0,Northern Iowa,Missouri
+1990,137,1345,75,1419,63,N,0,Purdue,ULM
+1990,137,1385,81,1396,65,N,0,St John's,Temple
+1990,137,1393,70,1164,48,N,0,Syracuse,Coppin St
+1990,137,1400,100,1208,88,N,0,Texas,Georgia
+1990,137,1417,68,1412,56,N,0,UCLA,UAB
+1990,137,1438,75,1323,67,N,0,Virginia,Notre Dame
+1990,137,1462,87,1243,79,N,0,Xavier,Kansas St
+1990,138,1116,86,1173,84,N,0,Arkansas,Dayton
+1990,138,1123,62,1257,60,N,0,Ball St,Louisville
+1990,138,1155,79,1247,75,N,0,Clemson,La Salle
+1990,138,1163,74,1143,54,N,0,Connecticut,California
+1990,138,1210,94,1261,91,N,0,Georgia Tech,LSU
+1990,138,1277,62,1364,58,N,0,Michigan St,UC Santa Barbara
+1990,138,1314,79,1328,77,N,0,North Carolina,Oklahoma
+1990,138,1424,76,1326,65,N,0,UNLV,Ohio St
+1990,139,1104,77,1112,55,N,0,Alabama,Arizona
+1990,139,1181,76,1385,72,N,0,Duke,St John's
+1990,139,1258,149,1276,115,N,0,Loy Marymount,Michigan
+1990,139,1278,81,1320,78,N,0,Minnesota,Northern Iowa
+1990,139,1393,63,1438,61,N,0,Syracuse,Virginia
+1990,139,1400,73,1345,72,N,0,Texas,Purdue
+1990,139,1417,71,1242,70,N,0,UCLA,Kansas
+1990,139,1462,74,1207,71,N,0,Xavier,Georgetown
+1990,143,1116,96,1314,73,N,0,Arkansas,North Carolina
+1990,143,1163,71,1155,70,N,0,Connecticut,Clemson
+1990,143,1181,90,1417,81,N,0,Duke,UCLA
+1990,143,1400,102,1462,89,N,0,Texas,Xavier
+1990,144,1210,81,1277,80,N,1,Georgia Tech,Michigan St
+1990,144,1258,62,1104,60,N,0,Loy Marymount,Alabama
+1990,144,1278,82,1393,75,N,0,Minnesota,Syracuse
+1990,144,1424,69,1123,67,N,0,UNLV,Ball St
+1990,145,1116,88,1400,85,N,0,Arkansas,Texas
+1990,145,1181,79,1163,78,N,1,Duke,Connecticut
+1990,146,1210,93,1278,91,N,0,Georgia Tech,Minnesota
+1990,146,1424,131,1258,101,N,0,UNLV,Loy Marymount
+1990,152,1181,97,1116,83,N,0,Duke,Arkansas
+1990,152,1424,90,1210,81,N,0,UNLV,Georgia Tech
+1990,154,1424,103,1181,73,N,0,UNLV,Duke
+1991,136,1112,93,1384,80,N,0,Arizona,St Francis PA
+1991,136,1140,61,1438,48,N,0,BYU,Virginia
+1991,136,1163,79,1261,62,N,0,Connecticut,LSU
+1991,136,1166,64,1308,56,N,0,Creighton,New Mexico St
+1991,136,1181,102,1419,73,N,0,Duke,ULM
+1991,136,1199,75,1425,72,N,0,Florida St,USC
+1991,136,1231,79,1157,69,N,0,Indiana,Coastal Car
+1991,136,1234,76,1190,73,N,0,Iowa,ETSU
+1991,136,1242,55,1309,49,N,0,Kansas,New Orleans
+1991,136,1301,114,1379,85,N,0,NC State,Southern Miss
+1991,136,1329,67,1307,54,N,0,Oklahoma St,New Mexico
+1991,136,1338,76,1208,68,N,1,Pittsburgh,Georgia
+1991,136,1350,73,1393,69,N,0,Richmond,Syracuse
+1991,136,1371,71,1337,51,N,0,Seton Hall,Pepperdine
+1991,136,1396,80,1345,63,N,0,Temple,Purdue
+1991,136,1462,89,1304,84,N,0,Xavier,Nebraska
+1991,137,1104,89,1293,79,N,0,Alabama,Murray St
+1991,137,1113,79,1353,76,N,0,Arizona St,Rutgers
+1991,137,1116,117,1209,76,N,0,Arkansas,Georgia St
+1991,137,1185,76,1280,56,N,0,E Michigan,Mississippi St
+1991,137,1207,70,1435,60,N,0,Georgetown,Vanderbilt
+1991,137,1210,87,1177,70,N,0,Georgia Tech,DePaul
+1991,137,1277,60,1453,58,N,0,Michigan St,WI Green Bay
+1991,137,1314,101,1318,66,N,0,North Carolina,Northeastern
+1991,137,1326,97,1406,86,N,0,Ohio St,Towson
+1991,137,1336,74,1417,69,N,0,Penn St,UCLA
+1991,137,1385,75,1296,68,N,0,St John's,N Illinois
+1991,137,1400,73,1389,65,N,0,Texas,St Peter's
+1991,137,1424,99,1285,65,N,0,UNLV,Montana
+1991,137,1428,82,1375,72,N,0,Utah,South Alabama
+1991,137,1437,50,1343,48,N,0,Villanova,Princeton
+1991,137,1448,71,1256,65,N,0,Wake Forest,Louisiana Tech
+1991,138,1112,76,1140,61,N,0,Arizona,BYU
+1991,138,1163,66,1462,50,N,0,Connecticut,Xavier
+1991,138,1181,85,1234,70,N,0,Duke,Iowa
+1991,138,1231,82,1199,60,N,0,Indiana,Florida St
+1991,138,1242,77,1338,66,N,0,Kansas,Pittsburgh
+1991,138,1329,73,1301,64,N,0,Oklahoma St,NC State
+1991,138,1371,81,1166,69,N,0,Seton Hall,Creighton
+1991,138,1396,77,1350,64,N,0,Temple,Richmond
+1991,139,1104,96,1448,88,N,0,Alabama,Wake Forest
+1991,139,1116,97,1113,90,N,0,Arkansas,Arizona St
+1991,139,1185,71,1336,68,N,1,E Michigan,Penn St
+1991,139,1314,84,1437,69,N,0,North Carolina,Villanova
+1991,139,1326,65,1210,61,N,0,Ohio St,Georgia Tech
+1991,139,1385,84,1400,76,N,0,St John's,Texas
+1991,139,1424,62,1207,54,N,0,UNLV,Georgetown
+1991,139,1428,85,1277,84,N,1,Utah,Michigan St
+1991,143,1116,93,1104,70,N,0,Arkansas,Alabama
+1991,143,1242,83,1231,65,N,0,Kansas,Indiana
+1991,143,1371,81,1112,77,N,0,Seton Hall,Arizona
+1991,143,1424,83,1428,66,N,0,UNLV,Utah
+1991,144,1181,81,1163,67,N,0,Duke,Connecticut
+1991,144,1314,93,1185,67,N,0,North Carolina,E Michigan
+1991,144,1385,91,1326,74,N,0,St John's,Ohio St
+1991,144,1396,72,1329,63,N,1,Temple,Oklahoma St
+1991,145,1242,93,1116,81,N,0,Kansas,Arkansas
+1991,145,1424,77,1371,65,N,0,UNLV,Seton Hall
+1991,146,1181,78,1385,61,N,0,Duke,St John's
+1991,146,1314,75,1396,72,N,0,North Carolina,Temple
+1991,152,1181,79,1424,77,N,0,Duke,UNLV
+1991,152,1242,79,1314,73,N,0,Kansas,North Carolina
+1991,154,1181,72,1242,65,N,0,Duke,Kansas
+1992,136,1104,80,1390,75,N,0,Alabama,Stanford
+1992,136,1116,80,1293,69,N,0,Arkansas,Murray St
+1992,136,1163,86,1304,65,N,0,Connecticut,Nebraska
+1992,136,1181,82,1144,56,N,0,Duke,Campbell
+1992,136,1199,78,1285,68,N,0,Florida St,Montana
+1992,136,1207,75,1378,60,N,0,Georgetown,South Florida
+1992,136,1210,65,1222,60,N,0,Georgia Tech,Houston
+1992,136,1231,94,1183,55,N,0,Indiana,E Illinois
+1992,136,1234,98,1400,92,N,0,Iowa,Texas
+1992,136,1261,94,1140,83,N,0,LSU,BYU
+1992,136,1272,80,1337,70,N,0,Memphis,Pepperdine
+1992,136,1281,89,1452,78,N,0,Missouri,West Virginia
+1992,136,1314,68,1275,63,N,0,North Carolina,Miami OH
+1992,136,1326,83,1290,56,N,0,Ohio St,MS Valley St
+1992,136,1371,78,1247,76,N,0,Seton Hall,La Salle
+1992,136,1425,84,1419,54,N,0,USC,ULM
+1992,137,1153,85,1174,47,N,0,Cincinnati,Delaware
+1992,137,1190,87,1112,80,N,0,ETSU,Arizona
+1992,137,1235,76,1150,74,N,0,Iowa St,Charlotte
+1992,137,1242,100,1224,67,N,0,Kansas,Howard
+1992,137,1246,88,1330,69,N,0,Kentucky,Old Dominion
+1992,137,1257,81,1448,58,N,0,Louisville,Wake Forest
+1992,137,1269,85,1200,58,N,0,Massachusetts,Fordham
+1992,137,1276,73,1396,66,N,0,Michigan,Temple
+1992,137,1277,61,1283,54,N,0,Michigan St,Missouri St
+1992,137,1308,81,1177,73,N,0,New Mexico St,DePaul
+1992,137,1329,100,1204,73,N,0,Oklahoma St,Ga Southern
+1992,137,1393,51,1343,43,N,0,Syracuse,Princeton
+1992,137,1408,61,1385,57,N,0,Tulane,St John's
+1992,137,1417,73,1352,53,N,0,UCLA,Robert Morris
+1992,137,1418,87,1328,83,N,0,Louisiana,Oklahoma
+1992,137,1431,55,1191,50,N,0,UTEP,Evansville
+1992,138,1181,75,1234,62,N,0,Duke,Iowa
+1992,138,1199,78,1207,68,N,0,Florida St,Georgetown
+1992,138,1210,79,1425,78,N,0,Georgia Tech,USC
+1992,138,1231,89,1261,79,N,0,Indiana,LSU
+1992,138,1272,82,1116,80,N,0,Memphis,Arkansas
+1992,138,1314,64,1104,55,N,0,North Carolina,Alabama
+1992,138,1326,78,1163,55,N,0,Ohio St,Connecticut
+1992,138,1371,88,1281,71,N,0,Seton Hall,Missouri
+1992,139,1153,77,1277,65,N,0,Cincinnati,Michigan St
+1992,139,1246,106,1235,98,N,0,Kentucky,Iowa St
+1992,139,1269,77,1393,71,N,1,Massachusetts,Syracuse
+1992,139,1276,102,1190,90,N,0,Michigan,ETSU
+1992,139,1308,81,1418,73,N,0,New Mexico St,Louisiana
+1992,139,1329,87,1408,71,N,0,Oklahoma St,Tulane
+1992,139,1417,85,1257,69,N,0,UCLA,Louisville
+1992,139,1431,66,1242,60,N,0,UTEP,Kansas
+1992,143,1181,81,1371,69,N,0,Duke,Seton Hall
+1992,143,1231,85,1199,74,N,0,Indiana,Florida St
+1992,143,1246,87,1269,77,N,0,Kentucky,Massachusetts
+1992,143,1417,85,1308,78,N,0,UCLA,New Mexico St
+1992,144,1153,69,1431,67,N,0,Cincinnati,UTEP
+1992,144,1272,83,1210,79,N,1,Memphis,Georgia Tech
+1992,144,1276,75,1329,72,N,0,Michigan,Oklahoma St
+1992,144,1326,80,1314,73,N,0,Ohio St,North Carolina
+1992,145,1181,104,1246,103,N,1,Duke,Kentucky
+1992,145,1231,106,1417,79,N,0,Indiana,UCLA
+1992,146,1153,88,1272,57,N,0,Cincinnati,Memphis
+1992,146,1276,75,1326,71,N,1,Michigan,Ohio St
+1992,152,1181,81,1231,78,N,0,Duke,Indiana
+1992,152,1276,76,1153,72,N,0,Michigan,Cincinnati
+1992,154,1181,71,1276,51,N,0,Duke,Michigan
+1993,136,1116,94,1221,64,N,0,Arkansas,Holy Cross
+1993,136,1140,80,1374,71,N,0,BYU,SMU
+1993,136,1143,66,1261,64,N,0,California,LSU
+1993,136,1181,105,1356,70,N,0,Duke,S Illinois
+1993,136,1199,82,1191,70,N,0,Florida St,Evansville
+1993,136,1228,75,1253,72,N,0,Illinois,Long Beach St
+1993,136,1242,94,1123,72,N,0,Kansas,Ball St
+1993,136,1314,85,1187,65,N,0,North Carolina,East Carolina
+1993,136,1348,74,1345,68,N,0,Rhode Island,Purdue
+1993,136,1365,64,1112,61,N,0,Santa Clara,Arizona
+1993,136,1371,81,1398,59,N,0,Seton Hall,Tennessee St
+1993,136,1385,85,1403,67,N,0,St John's,Texas Tech
+1993,136,1396,75,1281,61,N,0,Temple,Missouri
+1993,136,1408,55,1243,53,N,0,Tulane,Kansas St
+1993,136,1435,92,1129,72,N,0,Vanderbilt,Boise St
+1993,136,1443,55,1272,52,N,0,WKU,Memphis
+1993,137,1153,93,1164,66,N,0,Cincinnati,Coppin St
+1993,137,1203,82,1307,68,N,0,G Washington,New Mexico
+1993,137,1231,97,1460,54,N,0,Indiana,Wright St
+1993,137,1234,82,1419,69,N,0,Iowa,ULM
+1993,137,1246,96,1351,52,N,0,Kentucky,Rider
+1993,137,1257,76,1174,70,N,0,Louisville,Delaware
+1993,137,1269,54,1335,50,N,0,Massachusetts,Penn
+1993,137,1276,84,1157,52,N,0,Michigan,Coastal Car
+1993,137,1308,93,1304,79,N,0,New Mexico St,Nebraska
+1993,137,1329,74,1266,62,N,0,Oklahoma St,Marquette
+1993,137,1380,93,1210,78,N,0,Southern Univ,Georgia Tech
+1993,137,1417,81,1235,70,N,0,UCLA,Iowa St
+1993,137,1428,86,1338,65,N,0,Utah,Pittsburgh
+1993,137,1438,78,1264,66,N,0,Virginia,Manhattan
+1993,137,1448,81,1151,58,N,0,Wake Forest,Chattanooga
+1993,137,1462,73,1309,55,N,0,Xavier,New Orleans
+1993,138,1116,80,1385,74,N,0,Arkansas,St John's
+1993,138,1143,82,1181,77,N,0,California,Duke
+1993,138,1199,94,1408,63,N,0,Florida St,Tulane
+1993,138,1242,90,1140,76,N,0,Kansas,BYU
+1993,138,1314,112,1348,67,N,0,North Carolina,Rhode Island
+1993,138,1396,68,1365,57,N,0,Temple,Santa Clara
+1993,138,1435,85,1228,68,N,0,Vanderbilt,Illinois
+1993,138,1443,72,1371,68,N,0,WKU,Seton Hall
+1993,139,1153,92,1308,55,N,0,Cincinnati,New Mexico St
+1993,139,1203,90,1380,80,N,0,G Washington,Southern Univ
+1993,139,1231,73,1462,70,N,0,Indiana,Xavier
+1993,139,1246,83,1428,62,N,0,Kentucky,Utah
+1993,139,1257,78,1329,63,N,0,Louisville,Oklahoma St
+1993,139,1276,86,1417,84,N,1,Michigan,UCLA
+1993,139,1438,71,1269,56,N,0,Virginia,Massachusetts
+1993,139,1448,84,1234,78,N,0,Wake Forest,Iowa
+1993,143,1199,81,1443,78,N,1,Florida St,WKU
+1993,143,1231,82,1257,69,N,0,Indiana,Louisville
+1993,143,1242,93,1143,76,N,0,Kansas,California
+1993,143,1246,103,1448,69,N,0,Kentucky,Wake Forest
+1993,144,1153,71,1438,54,N,0,Cincinnati,Virginia
+1993,144,1276,72,1203,64,N,0,Michigan,G Washington
+1993,144,1314,80,1116,74,N,0,North Carolina,Arkansas
+1993,144,1396,67,1435,59,N,0,Temple,Vanderbilt
+1993,145,1242,83,1231,77,N,0,Kansas,Indiana
+1993,145,1246,106,1199,81,N,0,Kentucky,Florida St
+1993,146,1276,77,1396,72,N,0,Michigan,Temple
+1993,146,1314,75,1153,68,N,1,North Carolina,Cincinnati
+1993,152,1276,81,1246,78,N,1,Michigan,Kentucky
+1993,152,1314,78,1242,68,N,0,North Carolina,Kansas
+1993,154,1314,77,1276,71,N,0,North Carolina,Michigan
+1994,136,1104,76,1344,70,N,0,Alabama,Providence
+1994,136,1163,64,1351,46,N,0,Connecticut,Rider
+1994,136,1196,64,1241,62,N,0,Florida,James Madison
+1994,136,1203,51,1412,46,N,0,G Washington,UAB
+1994,136,1242,102,1151,73,N,0,Kansas,Chattanooga
+1994,136,1268,74,1387,66,N,0,Maryland,St Louis
+1994,136,1269,78,1402,60,N,0,Massachusetts,Texas St
+1994,136,1276,78,1337,74,N,1,Michigan,Pepperdine
+1994,136,1281,76,1298,53,N,0,Missouri,Navy
+1994,136,1335,90,1304,80,N,0,Penn,Nebraska
+1994,136,1345,98,1416,67,N,0,Purdue,UCF
+1994,136,1393,92,1218,78,N,0,Syracuse,Hawaii
+1994,136,1400,91,1443,77,N,0,Texas,WKU
+1994,136,1448,68,1158,58,N,0,Wake Forest,Col Charleston
+1994,136,1453,61,1143,57,N,0,WI Green Bay,California
+1994,136,1458,80,1153,72,N,0,Wisconsin,Cincinnati
+1994,137,1112,81,1259,55,N,0,Arizona,Loyola MD
+1994,137,1116,94,1299,79,N,0,Arkansas,NC A&T
+1994,137,1130,67,1450,64,N,0,Boston College,Washington St
+1994,137,1181,82,1411,70,N,0,Duke,TX Southern
+1994,137,1207,84,1228,77,N,0,Georgetown,Illinois
+1994,137,1231,84,1325,72,N,0,Indiana,Ohio
+1994,137,1246,83,1398,70,N,0,Kentucky,Tennessee St
+1994,137,1257,67,1129,58,N,0,Louisville,Boise St
+1994,137,1266,81,1418,59,N,0,Marquette,Louisiana
+1994,137,1277,84,1371,73,N,0,Michigan St,Seton Hall
+1994,137,1278,74,1356,60,N,0,Minnesota,S Illinois
+1994,137,1314,71,1251,51,N,0,North Carolina,Liberty
+1994,137,1329,65,1308,55,N,0,Oklahoma St,New Mexico St
+1994,137,1396,61,1180,39,N,0,Temple,Drexel
+1994,137,1409,112,1417,102,N,0,Tulsa,UCLA
+1994,137,1438,57,1307,54,N,0,Virginia,New Mexico
+1994,138,1163,75,1203,63,N,0,Connecticut,G Washington
+1994,138,1196,70,1335,58,N,0,Florida,Penn
+1994,138,1242,69,1448,58,N,0,Kansas,Wake Forest
+1994,138,1268,95,1269,87,N,0,Maryland,Massachusetts
+1994,138,1276,84,1400,79,N,0,Michigan,Texas
+1994,138,1281,109,1458,96,N,0,Missouri,Wisconsin
+1994,138,1345,83,1104,73,N,0,Purdue,Alabama
+1994,138,1393,64,1453,59,N,0,Syracuse,WI Green Bay
+1994,139,1112,71,1438,58,N,0,Arizona,Virginia
+1994,139,1116,85,1207,73,N,0,Arkansas,Georgetown
+1994,139,1130,75,1314,72,N,0,Boston College,North Carolina
+1994,139,1181,85,1277,74,N,0,Duke,Michigan St
+1994,139,1231,67,1396,58,N,0,Indiana,Temple
+1994,139,1257,60,1278,55,N,0,Louisville,Minnesota
+1994,139,1266,75,1246,63,N,0,Marquette,Kentucky
+1994,139,1409,82,1329,80,N,0,Tulsa,Oklahoma St
+1994,143,1112,82,1257,70,N,0,Arizona,Louisville
+1994,143,1181,59,1266,49,N,0,Duke,Marquette
+1994,143,1281,98,1393,88,N,1,Missouri,Syracuse
+1994,143,1345,83,1242,78,N,0,Purdue,Kansas
+1994,144,1116,103,1409,84,N,0,Arkansas,Tulsa
+1994,144,1130,77,1231,68,N,0,Boston College,Indiana
+1994,144,1196,69,1163,60,N,1,Florida,Connecticut
+1994,144,1276,78,1268,71,N,0,Michigan,Maryland
+1994,145,1112,92,1281,72,N,0,Arizona,Missouri
+1994,145,1181,69,1345,60,N,0,Duke,Purdue
+1994,146,1116,76,1276,68,N,0,Arkansas,Michigan
+1994,146,1196,74,1130,66,N,0,Florida,Boston College
+1994,152,1116,91,1112,82,N,0,Arkansas,Arizona
+1994,152,1181,70,1196,65,N,0,Duke,Florida
+1994,154,1116,76,1181,72,N,0,Arkansas,Duke
+1995,136,1104,91,1335,85,N,1,Alabama,Penn
+1995,136,1113,81,1123,66,N,0,Arizona St,Ball St
+1995,136,1153,77,1396,71,N,0,Cincinnati,Temple
+1995,136,1163,100,1151,71,N,0,Connecticut,Chattanooga
+1995,136,1242,82,1159,68,N,0,Kansas,Colgate
+1995,136,1246,113,1291,67,N,0,Kentucky,Mt St Mary's
+1995,136,1264,77,1328,67,N,0,Manhattan,Oklahoma
+1995,136,1268,87,1211,63,N,0,Maryland,Gonzaga
+1995,136,1275,71,1112,62,N,0,Miami OH,Arizona
+1995,136,1329,73,1180,49,N,0,Oklahoma St,Drexel
+1995,136,1387,64,1278,61,N,0,St Louis,Minnesota
+1995,136,1400,90,1332,73,N,0,Texas,Oregon
+1995,136,1408,76,1140,70,N,0,Tulane,BYU
+1995,136,1438,96,1311,72,N,0,Virginia,Nicholls St
+1995,136,1443,82,1276,76,N,0,WKU,Michigan
+1995,136,1448,79,1299,47,N,0,Wake Forest,NC A&T
+1995,137,1116,79,1411,78,N,0,Arkansas,TX Southern
+1995,137,1207,68,1462,63,N,0,Georgetown,Xavier
+1995,137,1235,64,1196,61,N,0,Iowa St,Florida
+1995,137,1269,68,1389,51,N,0,Massachusetts,St Peter's
+1995,137,1272,77,1257,56,N,0,Memphis,Louisville
+1995,137,1280,75,1365,67,N,0,Mississippi St,Santa Clara
+1995,137,1281,65,1231,60,N,0,Missouri,Indiana
+1995,137,1314,80,1293,70,N,0,North Carolina,Murray St
+1995,137,1330,89,1437,81,N,3,Old Dominion,Villanova
+1995,137,1345,49,1453,48,N,0,Purdue,WI Green Bay
+1995,137,1390,70,1150,68,N,0,Stanford,Charlotte
+1995,137,1393,96,1356,92,N,0,Syracuse,S Illinois
+1995,137,1409,68,1228,62,N,0,Tulsa,Illinois
+1995,137,1417,92,1198,56,N,0,UCLA,Florida Intl
+1995,137,1428,76,1253,64,N,0,Utah,Long Beach St
+1995,137,1451,79,1277,72,N,0,Weber St,Michigan St
+1995,138,1113,64,1264,54,N,0,Arizona St,Manhattan
+1995,138,1163,96,1153,91,N,0,Connecticut,Cincinnati
+1995,138,1242,75,1443,70,N,0,Kansas,WKU
+1995,138,1246,82,1408,60,N,0,Kentucky,Tulane
+1995,138,1268,82,1400,68,N,0,Maryland,Texas
+1995,138,1329,66,1104,52,N,0,Oklahoma St,Alabama
+1995,138,1438,60,1275,54,N,1,Virginia,Miami OH
+1995,138,1448,64,1387,59,N,0,Wake Forest,St Louis
+1995,139,1116,96,1393,94,N,1,Arkansas,Syracuse
+1995,139,1207,53,1451,51,N,0,Georgetown,Weber St
+1995,139,1269,75,1390,53,N,0,Massachusetts,Stanford
+1995,139,1272,75,1345,73,N,0,Memphis,Purdue
+1995,139,1280,78,1428,64,N,0,Mississippi St,Utah
+1995,139,1314,73,1235,51,N,0,North Carolina,Iowa St
+1995,139,1409,64,1330,52,N,0,Tulsa,Old Dominion
+1995,139,1417,75,1281,74,N,0,UCLA,Missouri
+1995,143,1163,99,1268,89,N,0,Connecticut,Maryland
+1995,143,1246,97,1113,73,N,0,Kentucky,Arizona St
+1995,143,1314,74,1207,64,N,0,North Carolina,Georgetown
+1995,143,1417,86,1280,67,N,0,UCLA,Mississippi St
+1995,144,1116,96,1272,91,N,1,Arkansas,Memphis
+1995,144,1269,76,1409,51,N,0,Massachusetts,Tulsa
+1995,144,1329,71,1448,66,N,0,Oklahoma St,Wake Forest
+1995,144,1438,67,1242,58,N,0,Virginia,Kansas
+1995,145,1314,74,1246,61,N,0,North Carolina,Kentucky
+1995,145,1417,102,1163,96,N,0,UCLA,Connecticut
+1995,146,1116,68,1438,61,N,0,Arkansas,Virginia
+1995,146,1329,68,1269,54,N,0,Oklahoma St,Massachusetts
+1995,152,1116,75,1314,68,N,0,Arkansas,North Carolina
+1995,152,1417,74,1329,61,N,0,UCLA,Oklahoma St
+1995,154,1417,89,1116,78,N,0,UCLA,Arkansas
+1996,136,1116,86,1336,80,N,0,Arkansas,Penn St
+1996,136,1163,68,1159,59,N,0,Connecticut,Colgate
+1996,136,1180,75,1272,63,N,0,Drexel,Memphis
+1996,136,1185,75,1181,60,N,0,E Michigan,Duke
+1996,136,1208,81,1155,74,N,0,Georgia,Clemson
+1996,136,1235,74,1143,64,N,0,Iowa St,California
+1996,136,1246,110,1363,72,N,0,Kentucky,San Jose St
+1996,136,1266,68,1284,44,N,0,Marquette,Monmouth NJ
+1996,136,1269,92,1416,70,N,0,Massachusetts,UCF
+1996,136,1280,58,1433,51,N,0,Mississippi St,VCU
+1996,136,1343,43,1417,41,N,0,Princeton,UCLA
+1996,136,1345,73,1441,71,N,0,Purdue,W Carolina
+1996,136,1390,66,1133,58,N,0,Stanford,Bradley
+1996,136,1393,88,1286,55,N,0,Syracuse,Montana St
+1996,136,1428,72,1145,43,N,0,Utah,Canisius
+1996,136,1439,61,1453,48,N,0,Virginia Tech,WI Green Bay
+1996,137,1112,90,1434,51,N,0,Arizona,Valparaiso
+1996,137,1130,64,1231,51,N,0,Boston College,Indiana
+1996,137,1153,66,1422,61,N,0,Cincinnati,UNC Greensboro
+1996,137,1207,93,1290,56,N,0,Georgetown,MS Valley St
+1996,137,1210,90,1122,79,N,0,Georgia Tech,Austin Peay
+1996,137,1234,81,1203,79,N,0,Iowa,G Washington
+1996,137,1242,92,1354,54,N,0,Kansas,S Carolina St
+1996,137,1257,82,1409,80,N,1,Louisville,Tulsa
+1996,137,1307,69,1243,48,N,0,New Mexico,Kansas St
+1996,137,1314,83,1309,62,N,0,North Carolina,New Orleans
+1996,137,1365,91,1268,79,N,0,Santa Clara,Maryland
+1996,137,1396,61,1328,43,N,0,Temple,Oklahoma
+1996,137,1400,80,1276,76,N,0,Texas,Michigan
+1996,137,1403,74,1296,73,N,0,Texas Tech,N Illinois
+1996,137,1437,92,1339,58,N,0,Villanova,Portland
+1996,137,1448,62,1419,50,N,0,Wake Forest,ULM
+1996,138,1116,65,1266,56,N,0,Arkansas,Marquette
+1996,138,1163,95,1185,81,N,0,Connecticut,E Michigan
+1996,138,1208,76,1345,69,N,0,Georgia,Purdue
+1996,138,1246,84,1439,60,N,0,Kentucky,Virginia Tech
+1996,138,1269,79,1390,74,N,0,Massachusetts,Stanford
+1996,138,1280,63,1343,41,N,0,Mississippi St,Princeton
+1996,138,1393,69,1180,58,N,0,Syracuse,Drexel
+1996,138,1428,73,1235,67,N,0,Utah,Iowa St
+1996,139,1112,87,1234,73,N,0,Arizona,Iowa
+1996,139,1153,78,1396,65,N,0,Cincinnati,Temple
+1996,139,1207,73,1307,62,N,0,Georgetown,New Mexico
+1996,139,1210,103,1130,89,N,0,Georgia Tech,Boston College
+1996,139,1242,76,1365,51,N,0,Kansas,Santa Clara
+1996,139,1257,68,1437,64,N,0,Louisville,Villanova
+1996,139,1403,92,1314,73,N,0,Texas Tech,North Carolina
+1996,139,1448,65,1400,62,N,0,Wake Forest,Texas
+1996,143,1207,98,1403,90,N,0,Georgetown,Texas Tech
+1996,143,1246,101,1428,70,N,0,Kentucky,Utah
+1996,143,1269,79,1116,63,N,0,Massachusetts,Arkansas
+1996,143,1448,60,1257,59,N,0,Wake Forest,Louisville
+1996,144,1153,87,1210,70,N,0,Cincinnati,Georgia Tech
+1996,144,1242,83,1112,80,N,0,Kansas,Arizona
+1996,144,1280,60,1163,55,N,0,Mississippi St,Connecticut
+1996,144,1393,83,1208,81,N,1,Syracuse,Georgia
+1996,145,1246,83,1448,63,N,0,Kentucky,Wake Forest
+1996,145,1269,86,1207,62,N,0,Massachusetts,Georgetown
+1996,146,1280,73,1153,63,N,0,Mississippi St,Cincinnati
+1996,146,1393,60,1242,57,N,0,Syracuse,Kansas
+1996,152,1246,81,1269,74,N,0,Kentucky,Massachusetts
+1996,152,1393,77,1280,69,N,0,Syracuse,Mississippi St
+1996,154,1246,76,1393,67,N,0,Kentucky,Syracuse
+1997,136,1112,65,1375,57,N,0,Arizona,South Alabama
+1997,136,1130,73,1434,66,N,0,Boston College,Valparaiso
+1997,136,1143,55,1343,52,N,0,California,Princeton
+1997,136,1153,86,1139,69,N,0,Cincinnati,Butler
+1997,136,1158,75,1268,66,N,0,Col Charleston,Maryland
+1997,136,1160,80,1231,62,N,0,Colorado,Indiana
+1997,136,1234,73,1438,60,N,0,Iowa,Virginia
+1997,136,1235,69,1229,57,N,0,Iowa St,Illinois St
+1997,136,1242,78,1238,64,N,0,Kansas,Jackson St
+1997,136,1246,92,1285,54,N,0,Kentucky,Montana
+1997,136,1314,82,1193,74,N,0,North Carolina,Fairfield
+1997,136,1345,83,1348,76,N,1,Purdue,Rhode Island
+1997,136,1386,75,1334,65,N,0,St Joseph's PA,Pacific
+1997,136,1417,109,1149,75,N,0,UCLA,Charleston So
+1997,136,1437,101,1254,91,N,0,Villanova,LIU Brooklyn
+1997,136,1462,80,1435,68,N,0,Xavier,Vanderbilt
+1997,137,1150,79,1207,67,N,0,Charlotte,Georgetown
+1997,137,1151,73,1208,70,N,0,Chattanooga,Georgia
+1997,137,1155,68,1275,56,N,0,Clemson,Miami OH
+1997,137,1164,78,1376,65,N,0,Coppin St,South Carolina
+1997,137,1181,71,1293,68,N,0,Duke,Murray St
+1997,137,1228,90,1425,77,N,0,Illinois,USC
+1997,137,1257,65,1269,57,N,0,Louisville,Massachusetts
+1997,137,1278,78,1402,46,N,0,Minnesota,Texas St
+1997,137,1307,59,1330,55,N,0,New Mexico,Old Dominion
+1997,137,1344,81,1266,59,N,0,Providence,Marquette
+1997,137,1390,80,1328,67,N,0,Stanford,Oklahoma
+1997,137,1396,62,1279,40,N,0,Temple,Mississippi
+1997,137,1400,71,1458,58,N,0,Texas,Wisconsin
+1997,137,1409,81,1131,52,N,0,Tulsa,Boston Univ
+1997,137,1428,75,1298,61,N,0,Utah,Navy
+1997,137,1448,68,1388,46,N,0,Wake Forest,St Mary's CA
+1997,138,1112,73,1158,69,N,0,Arizona,Col Charleston
+1997,138,1143,75,1437,68,N,0,California,Villanova
+1997,138,1235,67,1153,66,N,0,Iowa St,Cincinnati
+1997,138,1242,75,1345,61,N,0,Kansas,Purdue
+1997,138,1246,75,1234,69,N,0,Kentucky,Iowa
+1997,138,1314,73,1160,56,N,0,North Carolina,Colorado
+1997,138,1386,81,1130,77,N,1,St Joseph's PA,Boston College
+1997,138,1417,96,1462,83,N,0,UCLA,Xavier
+1997,139,1151,75,1228,63,N,0,Chattanooga,Illinois
+1997,139,1155,65,1409,59,N,0,Clemson,Tulsa
+1997,139,1257,64,1307,63,N,0,Louisville,New Mexico
+1997,139,1278,76,1396,57,N,0,Minnesota,Temple
+1997,139,1344,98,1181,87,N,0,Providence,Duke
+1997,139,1390,72,1448,66,N,0,Stanford,Wake Forest
+1997,139,1400,82,1164,81,N,0,Texas,Coppin St
+1997,139,1428,77,1150,58,N,0,Utah,Charlotte
+1997,143,1246,83,1386,68,N,0,Kentucky,St Joseph's PA
+1997,143,1278,90,1155,84,N,1,Minnesota,Clemson
+1997,143,1417,74,1235,73,N,1,UCLA,Iowa St
+1997,143,1428,82,1390,77,N,1,Utah,Stanford
+1997,144,1112,85,1242,82,N,0,Arizona,Kansas
+1997,144,1257,78,1400,63,N,0,Louisville,Texas
+1997,144,1314,63,1143,57,N,0,North Carolina,California
+1997,144,1344,71,1151,65,N,0,Providence,Chattanooga
+1997,145,1246,72,1428,59,N,0,Kentucky,Utah
+1997,145,1278,80,1417,72,N,0,Minnesota,UCLA
+1997,146,1112,96,1344,92,N,1,Arizona,Providence
+1997,146,1314,97,1257,74,N,0,North Carolina,Louisville
+1997,152,1112,66,1314,58,N,0,Arizona,North Carolina
+1997,152,1246,78,1278,69,N,0,Kentucky,Minnesota
+1997,154,1112,84,1246,79,N,1,Arizona,Kentucky
+1998,136,1112,99,1311,60,N,0,Arizona,Nicholls St
+1998,136,1116,74,1304,65,N,0,Arkansas,Nebraska
+1998,136,1150,77,1227,62,N,0,Charlotte,IL Chicago
+1998,136,1153,65,1319,62,N,0,Cincinnati,Northern Arizona
+1998,136,1163,93,1192,85,N,0,Connecticut,F Dickinson
+1998,136,1228,64,1375,51,N,0,Illinois,South Alabama
+1998,136,1229,82,1397,81,N,1,Illinois St,Tennessee
+1998,136,1231,94,1328,87,N,1,Indiana,Oklahoma
+1998,136,1268,82,1429,68,N,0,Maryland,Utah St
+1998,136,1277,83,1185,71,N,0,Michigan St,E Michigan
+1998,136,1314,88,1298,52,N,0,North Carolina,Navy
+1998,136,1343,69,1424,57,N,0,Princeton,UNLV
+1998,136,1350,62,1376,61,N,0,Richmond,South Carolina
+1998,136,1428,85,1362,68,N,0,Utah,San Francisco
+1998,136,1449,69,1462,68,N,0,Washington,Xavier
+1998,136,1452,82,1396,52,N,0,West Virginia,Temple
+1998,137,1178,66,1385,64,N,0,Detroit,St John's
+1998,137,1181,99,1347,63,N,0,Duke,Radford
+1998,137,1199,96,1395,87,N,0,Florida St,TCU
+1998,137,1242,110,1341,52,N,0,Kansas,Prairie View
+1998,137,1246,82,1354,67,N,0,Kentucky,S Carolina St
+1998,137,1276,80,1172,61,N,0,Michigan,Davidson
+1998,137,1307,79,1139,62,N,0,New Mexico,Butler
+1998,137,1329,74,1203,59,N,0,Oklahoma St,G Washington
+1998,137,1345,95,1174,56,N,0,Purdue,Delaware
+1998,137,1348,97,1293,74,N,0,Rhode Island,Murray St
+1998,137,1387,51,1269,46,N,0,St Louis,Massachusetts
+1998,137,1390,67,1158,57,N,0,Stanford,Col Charleston
+1998,137,1393,63,1233,61,N,0,Syracuse,Iona
+1998,137,1417,65,1274,62,N,0,UCLA,Miami FL
+1998,137,1434,70,1279,69,N,0,Valparaiso,Mississippi
+1998,137,1444,75,1155,72,N,0,W Michigan,Clemson
+1998,138,1112,82,1229,49,N,0,Arizona,Illinois St
+1998,138,1163,78,1231,68,N,0,Connecticut,Indiana
+1998,138,1268,67,1228,61,N,0,Maryland,Illinois
+1998,138,1277,63,1343,56,N,0,Michigan St,Princeton
+1998,138,1314,93,1150,83,N,1,North Carolina,Charlotte
+1998,138,1428,75,1116,69,N,0,Utah,Arkansas
+1998,138,1449,81,1350,66,N,0,Washington,Richmond
+1998,138,1452,75,1153,74,N,0,West Virginia,Cincinnati
+1998,139,1181,79,1329,73,N,0,Duke,Oklahoma St
+1998,139,1246,88,1387,61,N,0,Kentucky,St Louis
+1998,139,1345,80,1178,65,N,0,Purdue,Detroit
+1998,139,1348,80,1242,75,N,0,Rhode Island,Kansas
+1998,139,1390,83,1444,65,N,0,Stanford,W Michigan
+1998,139,1393,56,1307,46,N,0,Syracuse,New Mexico
+1998,139,1417,85,1276,82,N,0,UCLA,Michigan
+1998,139,1434,83,1199,77,N,1,Valparaiso,Florida St
+1998,143,1112,87,1268,79,N,0,Arizona,Maryland
+1998,143,1163,75,1449,74,N,0,Connecticut,Washington
+1998,143,1314,73,1277,58,N,0,North Carolina,Michigan St
+1998,143,1428,65,1452,62,N,0,Utah,West Virginia
+1998,144,1181,80,1393,67,N,0,Duke,Syracuse
+1998,144,1246,94,1417,68,N,0,Kentucky,UCLA
+1998,144,1348,74,1434,68,N,0,Rhode Island,Valparaiso
+1998,144,1390,67,1345,59,N,0,Stanford,Purdue
+1998,145,1314,75,1163,64,N,0,North Carolina,Connecticut
+1998,145,1428,76,1112,51,N,0,Utah,Arizona
+1998,146,1246,86,1181,84,N,0,Kentucky,Duke
+1998,146,1390,79,1348,77,N,0,Stanford,Rhode Island
+1998,152,1246,86,1390,85,N,1,Kentucky,Stanford
+1998,152,1428,65,1314,59,N,0,Utah,North Carolina
+1998,154,1246,78,1428,69,N,0,Kentucky,Utah
+1999,136,1116,94,1373,80,N,0,Arkansas,Siena
+1999,136,1120,80,1457,41,N,0,Auburn,Winthrop
+1999,136,1163,91,1427,66,N,0,Connecticut,UT San Antonio
+1999,136,1166,62,1257,58,N,0,Creighton,Louisville
+1999,136,1178,56,1417,53,N,0,Detroit,UCLA
+1999,136,1196,75,1335,61,N,0,Florida,Penn
+1999,136,1211,75,1278,63,N,0,Gonzaga,Minnesota
+1999,136,1231,108,1203,88,N,0,Indiana,G Washington
+1999,136,1234,77,1412,64,N,0,Iowa,UAB
+1999,136,1268,82,1434,60,N,0,Maryland,Valparaiso
+1999,136,1307,61,1281,59,N,0,New Mexico,Missouri
+1999,136,1326,72,1293,58,N,0,Ohio St,Murray St
+1999,136,1329,69,1393,61,N,0,Oklahoma St,Syracuse
+1999,136,1385,69,1359,43,N,0,St John's,Samford
+1999,136,1390,69,1108,57,N,0,Stanford,Alcorn St
+1999,136,1451,76,1314,74,N,0,Weber St,North Carolina
+1999,137,1150,81,1348,70,N,1,Charlotte,Rhode Island
+1999,137,1153,72,1206,48,N,0,Cincinnati,George Mason
+1999,137,1181,99,1197,58,N,0,Duke,Florida A&M
+1999,137,1242,95,1191,74,N,0,Kansas,Evansville
+1999,137,1246,82,1308,60,N,0,Kentucky,New Mexico St
+1999,137,1274,75,1248,54,N,0,Miami FL,Lafayette
+1999,137,1275,59,1449,58,N,0,Miami OH,Washington
+1999,137,1277,76,1291,53,N,0,Michigan St,Mt St Mary's
+1999,137,1279,72,1437,70,N,0,Mississippi,Villanova
+1999,137,1283,43,1458,32,N,0,Missouri St,Wisconsin
+1999,137,1328,61,1112,60,N,0,Oklahoma,Arizona
+1999,137,1345,58,1400,54,N,0,Purdue,Texas
+1999,137,1396,61,1245,54,N,0,Temple,Kent
+1999,137,1397,62,1174,52,N,0,Tennessee,Delaware
+1999,137,1409,62,1158,53,N,0,Tulsa,Col Charleston
+1999,137,1428,80,1117,58,N,0,Utah,Arkansas St
+1999,138,1120,81,1329,74,N,0,Auburn,Oklahoma St
+1999,138,1163,78,1307,56,N,0,Connecticut,New Mexico
+1999,138,1196,82,1451,74,N,1,Florida,Weber St
+1999,138,1211,82,1390,74,N,0,Gonzaga,Stanford
+1999,138,1234,82,1116,72,N,0,Iowa,Arkansas
+1999,138,1268,75,1166,63,N,0,Maryland,Creighton
+1999,138,1326,75,1178,44,N,0,Ohio St,Detroit
+1999,138,1385,86,1231,61,N,0,St John's,Indiana
+1999,139,1181,97,1409,56,N,0,Duke,Tulsa
+1999,139,1246,92,1242,88,N,1,Kentucky,Kansas
+1999,139,1275,66,1428,58,N,0,Miami OH,Utah
+1999,139,1277,74,1279,66,N,0,Michigan St,Mississippi
+1999,139,1283,81,1397,51,N,0,Missouri St,Tennessee
+1999,139,1328,85,1150,72,N,0,Oklahoma,Charlotte
+1999,139,1345,73,1274,63,N,0,Purdue,Miami FL
+1999,139,1396,64,1153,54,N,0,Temple,Cincinnati
+1999,143,1163,78,1234,68,N,0,Connecticut,Iowa
+1999,143,1211,73,1196,72,N,0,Gonzaga,Florida
+1999,143,1326,72,1120,64,N,0,Ohio St,Auburn
+1999,143,1385,76,1268,62,N,0,St John's,Maryland
+1999,144,1181,78,1283,61,N,0,Duke,Missouri St
+1999,144,1246,58,1275,43,N,0,Kentucky,Miami OH
+1999,144,1277,54,1328,46,N,0,Michigan St,Oklahoma
+1999,144,1396,77,1345,55,N,0,Temple,Purdue
+1999,145,1163,67,1211,62,N,0,Connecticut,Gonzaga
+1999,145,1326,77,1385,74,N,0,Ohio St,St John's
+1999,146,1181,85,1396,64,N,0,Duke,Temple
+1999,146,1277,73,1246,66,N,0,Michigan St,Kentucky
+1999,152,1163,64,1326,58,N,0,Connecticut,Ohio St
+1999,152,1181,68,1277,62,N,0,Duke,Michigan St
+1999,154,1163,77,1181,74,N,0,Connecticut,Duke
+2000,136,1112,71,1238,47,N,0,Arizona,Jackson St
+2000,136,1120,72,1166,69,N,0,Auburn,Creighton
+2000,136,1211,77,1257,66,N,0,Gonzaga,Louisville
+2000,136,1235,88,1148,78,N,0,Iowa St,Central Conn
+2000,136,1246,85,1382,80,N,2,Kentucky,St Bonaventure
+2000,136,1261,64,1369,61,N,0,LSU,SE Missouri St
+2000,136,1268,74,1233,59,N,0,Maryland,Iona
+2000,136,1277,65,1434,38,N,0,Michigan St,Valparaiso
+2000,136,1328,74,1457,50,N,0,Oklahoma,Winthrop
+2000,136,1345,62,1173,61,N,0,Purdue,Dayton
+2000,136,1385,61,1319,56,N,0,St John's,Northern Arizona
+2000,136,1393,79,1359,65,N,0,Syracuse,Samford
+2000,136,1400,77,1232,61,N,0,Texas,Indiana St
+2000,136,1417,65,1123,57,N,0,UCLA,Ball St
+2000,136,1428,48,1387,45,N,0,Utah,St Louis
+2000,136,1458,66,1201,56,N,0,Wisconsin,Fresno St
+2000,137,1153,64,1423,47,N,0,Cincinnati,UNC Wilmington
+2000,137,1163,75,1429,67,N,0,Connecticut,Utah St
+2000,137,1181,82,1249,55,N,0,Duke,Lamar
+2000,137,1196,69,1139,68,N,1,Florida,Butler
+2000,137,1228,68,1335,58,N,0,Illinois,Penn
+2000,137,1242,81,1177,77,N,1,Kansas,DePaul
+2000,137,1274,75,1116,71,N,0,Miami FL,Arkansas
+2000,137,1314,84,1281,70,N,0,North Carolina,Missouri
+2000,137,1326,87,1111,61,N,0,Ohio St,Appalachian St
+2000,137,1329,86,1220,66,N,0,Oklahoma St,Hofstra
+2000,137,1337,77,1231,57,N,0,Pepperdine,Indiana
+2000,137,1371,72,1332,71,N,1,Seton Hall,Oregon
+2000,137,1390,84,1354,65,N,0,Stanford,S Carolina St
+2000,137,1396,73,1248,47,N,0,Temple,Lafayette
+2000,137,1397,63,1418,58,N,0,Tennessee,Louisiana
+2000,137,1409,89,1424,62,N,0,Tulsa,UNLV
+2000,138,1211,82,1385,76,N,0,Gonzaga,St John's
+2000,138,1235,79,1120,60,N,0,Iowa St,Auburn
+2000,138,1261,72,1400,67,N,0,LSU,Texas
+2000,138,1277,73,1428,61,N,0,Michigan St,Utah
+2000,138,1345,66,1328,62,N,0,Purdue,Oklahoma
+2000,138,1393,52,1246,50,N,0,Syracuse,Kentucky
+2000,138,1417,105,1268,70,N,0,UCLA,Maryland
+2000,138,1458,66,1112,59,N,0,Wisconsin,Arizona
+2000,139,1181,69,1242,64,N,0,Duke,Kansas
+2000,139,1196,93,1228,76,N,0,Florida,Illinois
+2000,139,1274,75,1326,62,N,0,Miami FL,Ohio St
+2000,139,1314,60,1390,53,N,0,North Carolina,Stanford
+2000,139,1329,75,1337,67,N,0,Oklahoma St,Pepperdine
+2000,139,1371,67,1396,65,N,1,Seton Hall,Temple
+2000,139,1397,65,1163,51,N,0,Tennessee,Connecticut
+2000,139,1409,69,1153,61,N,0,Tulsa,Cincinnati
+2000,143,1235,80,1417,56,N,0,Iowa St,UCLA
+2000,143,1277,75,1393,58,N,0,Michigan St,Syracuse
+2000,143,1345,75,1211,66,N,0,Purdue,Gonzaga
+2000,143,1458,61,1261,48,N,0,Wisconsin,LSU
+2000,144,1196,87,1181,78,N,0,Florida,Duke
+2000,144,1314,74,1397,69,N,0,North Carolina,Tennessee
+2000,144,1329,68,1371,66,N,0,Oklahoma St,Seton Hall
+2000,144,1409,80,1274,71,N,0,Tulsa,Miami FL
+2000,145,1277,75,1235,64,N,0,Michigan St,Iowa St
+2000,145,1458,64,1345,60,N,0,Wisconsin,Purdue
+2000,146,1196,77,1329,65,N,0,Florida,Oklahoma St
+2000,146,1314,59,1409,55,N,0,North Carolina,Tulsa
+2000,152,1196,71,1314,59,N,0,Florida,North Carolina
+2000,152,1277,53,1458,41,N,0,Michigan St,Wisconsin
+2000,154,1277,89,1196,76,N,0,Michigan St,Florida
+2001,134,1322,71,1457,67,N,0,Northwestern LA,Winthrop
+2001,136,1130,68,1381,65,N,0,Boston College,Southern Utah
+2001,136,1153,84,1140,59,N,0,Cincinnati,BYU
+2001,136,1181,95,1284,52,N,0,Duke,Monmouth NJ
+2001,136,1207,63,1116,61,N,0,Georgetown,Arkansas
+2001,136,1209,50,1458,49,N,0,Georgia St,Wisconsin
+2001,136,1214,58,1235,57,N,0,Hampton,Iowa St
+2001,136,1234,69,1166,56,N,0,Iowa,Creighton
+2001,136,1245,77,1231,73,N,0,Kent,Indiana
+2001,136,1246,72,1221,68,N,0,Kentucky,Holy Cross
+2001,136,1268,83,1206,80,N,0,Maryland,George Mason
+2001,136,1281,70,1208,68,N,0,Missouri,Georgia
+2001,136,1386,66,1210,62,N,0,St Joseph's PA,Georgia Tech
+2001,136,1390,89,1422,60,N,0,Stanford,UNC Greensboro
+2001,136,1417,61,1220,48,N,0,UCLA,Hofstra
+2001,136,1425,69,1329,54,N,0,USC,Oklahoma St
+2001,136,1429,77,1326,68,N,1,Utah St,Ohio St
+2001,137,1112,101,1183,76,N,0,Arizona,E Illinois
+2001,137,1139,79,1448,63,N,0,Butler,Wake Forest
+2001,137,1150,70,1397,63,N,0,Charlotte,Tennessee
+2001,137,1196,69,1443,56,N,0,Florida,WKU
+2001,137,1201,82,1143,70,N,0,Fresno St,California
+2001,137,1211,86,1438,85,N,0,Gonzaga,Virginia
+2001,137,1228,96,1322,54,N,0,Illinois,Northwestern LA
+2001,137,1232,70,1328,68,N,1,Indiana St,Oklahoma
+2001,137,1242,99,1169,75,N,0,Kansas,CS Northridge
+2001,137,1277,69,1106,35,N,0,Michigan St,Alabama St
+2001,137,1279,72,1233,70,N,0,Mississippi,Iona
+2001,137,1314,70,1343,48,N,0,North Carolina,Princeton
+2001,137,1323,83,1462,71,N,0,Notre Dame,Xavier
+2001,137,1336,69,1344,59,N,0,Penn St,Providence
+2001,137,1393,79,1218,69,N,0,Syracuse,Hawaii
+2001,137,1396,79,1400,65,N,0,Temple,Texas
+2001,138,1153,66,1245,43,N,0,Cincinnati,Kent
+2001,138,1181,94,1281,81,N,0,Duke,Missouri
+2001,138,1207,76,1214,57,N,0,Georgetown,Hampton
+2001,138,1246,92,1234,79,N,0,Kentucky,Iowa
+2001,138,1268,79,1209,60,N,0,Maryland,Georgia St
+2001,138,1390,90,1386,83,N,0,Stanford,St Joseph's PA
+2001,138,1417,75,1429,50,N,0,UCLA,Utah St
+2001,138,1425,74,1130,71,N,0,USC,Boston College
+2001,139,1112,73,1139,52,N,0,Arizona,Butler
+2001,139,1211,85,1232,68,N,0,Gonzaga,Indiana St
+2001,139,1228,79,1150,61,N,0,Illinois,Charlotte
+2001,139,1242,87,1393,58,N,0,Kansas,Syracuse
+2001,139,1277,81,1201,65,N,0,Michigan St,Fresno St
+2001,139,1279,59,1323,56,N,0,Mississippi,Notre Dame
+2001,139,1336,82,1314,74,N,0,Penn St,North Carolina
+2001,139,1396,75,1196,54,N,0,Temple,Florida
+2001,143,1181,76,1417,63,N,0,Duke,UCLA
+2001,143,1268,76,1207,66,N,0,Maryland,Georgetown
+2001,143,1390,78,1153,65,N,0,Stanford,Cincinnati
+2001,143,1425,80,1246,76,N,0,USC,Kentucky
+2001,144,1112,66,1279,56,N,0,Arizona,Mississippi
+2001,144,1228,80,1242,64,N,0,Illinois,Kansas
+2001,144,1277,77,1211,62,N,0,Michigan St,Gonzaga
+2001,144,1396,84,1336,72,N,0,Temple,Penn St
+2001,145,1181,79,1425,69,N,0,Duke,USC
+2001,145,1268,87,1390,73,N,0,Maryland,Stanford
+2001,146,1112,87,1228,81,N,0,Arizona,Illinois
+2001,146,1277,69,1396,62,N,0,Michigan St,Temple
+2001,152,1112,80,1277,61,N,0,Arizona,Michigan St
+2001,152,1181,95,1268,84,N,0,Duke,Maryland
+2001,154,1181,82,1112,72,N,0,Duke,Arizona
+2002,134,1373,81,1108,77,N,0,Siena,Alcorn St
+2002,136,1104,86,1194,78,N,0,Alabama,FL Atlantic
+2002,136,1112,86,1364,81,N,0,Arizona,UC Santa Barbara
+2002,136,1181,84,1457,37,N,0,Duke,Winthrop
+2002,136,1231,75,1428,56,N,0,Indiana,Utah
+2002,136,1242,70,1221,59,N,0,Kansas,Holy Cross
+2002,136,1245,69,1329,61,N,0,Kent,Oklahoma St
+2002,136,1246,83,1434,68,N,0,Kentucky,Valparaiso
+2002,136,1281,93,1274,80,N,0,Missouri,Miami FL
+2002,136,1323,82,1150,63,N,0,Notre Dame,Charlotte
+2002,136,1326,69,1172,64,N,0,Ohio St,Davidson
+2002,136,1332,81,1285,62,N,0,Oregon,Montana
+2002,136,1390,84,1443,68,N,0,Stanford,WKU
+2002,136,1409,71,1266,69,N,0,Tulsa,Marquette
+2002,136,1423,93,1425,89,N,1,UNC Wilmington,USC
+2002,136,1448,83,1337,74,N,0,Wake Forest,Pepperdine
+2002,136,1461,73,1211,66,N,0,Wyoming,Gonzaga
+2002,137,1143,82,1335,75,N,0,California,Penn
+2002,137,1153,90,1131,52,N,0,Cincinnati,Boston Univ
+2002,137,1163,78,1214,67,N,0,Connecticut,Hampton
+2002,137,1166,83,1196,82,N,2,Creighton,Florida
+2002,137,1208,85,1293,68,N,0,Georgia,Murray St
+2002,137,1228,93,1361,64,N,0,Illinois,San Diego St
+2002,137,1268,85,1373,70,N,0,Maryland,Siena
+2002,137,1280,70,1270,58,N,0,Mississippi St,McNeese St
+2002,137,1301,69,1277,58,N,0,NC State,Michigan St
+2002,137,1328,71,1227,63,N,0,Oklahoma,IL Chicago
+2002,137,1338,71,1148,54,N,0,Pittsburgh,Central Conn
+2002,137,1356,76,1403,68,N,0,S Illinois,Texas Tech
+2002,137,1400,70,1130,57,N,0,Texas,Boston College
+2002,137,1417,80,1279,58,N,0,UCLA,Mississippi
+2002,137,1458,80,1385,70,N,0,Wisconsin,St John's
+2002,137,1462,70,1218,58,N,0,Xavier,Hawaii
+2002,138,1112,68,1461,60,N,0,Arizona,Wyoming
+2002,138,1181,84,1323,77,N,0,Duke,Notre Dame
+2002,138,1231,76,1423,67,N,0,Indiana,UNC Wilmington
+2002,138,1242,86,1390,63,N,0,Kansas,Stanford
+2002,138,1245,71,1104,58,N,0,Kent,Alabama
+2002,138,1246,87,1409,82,N,0,Kentucky,Tulsa
+2002,138,1281,83,1326,67,N,0,Missouri,Ohio St
+2002,138,1332,92,1448,87,N,0,Oregon,Wake Forest
+2002,139,1163,77,1301,74,N,0,Connecticut,NC State
+2002,139,1228,72,1166,60,N,0,Illinois,Creighton
+2002,139,1268,87,1458,57,N,0,Maryland,Wisconsin
+2002,139,1328,78,1462,65,N,0,Oklahoma,Xavier
+2002,139,1338,63,1143,50,N,0,Pittsburgh,California
+2002,139,1356,77,1208,75,N,0,S Illinois,Georgia
+2002,139,1400,68,1280,64,N,0,Texas,Mississippi St
+2002,139,1417,105,1153,101,N,2,UCLA,Cincinnati
+2002,143,1231,74,1181,73,N,0,Indiana,Duke
+2002,143,1245,78,1338,73,N,1,Kent,Pittsburgh
+2002,143,1281,82,1417,73,N,0,Missouri,UCLA
+2002,143,1328,88,1112,67,N,0,Oklahoma,Arizona
+2002,144,1163,71,1356,59,N,0,Connecticut,S Illinois
+2002,144,1242,73,1228,69,N,0,Kansas,Illinois
+2002,144,1268,78,1246,68,N,0,Maryland,Kentucky
+2002,144,1332,72,1400,70,N,0,Oregon,Texas
+2002,145,1231,81,1245,69,N,0,Indiana,Kent
+2002,145,1328,81,1281,75,N,0,Oklahoma,Missouri
+2002,146,1242,104,1332,86,N,0,Kansas,Oregon
+2002,146,1268,90,1163,82,N,0,Maryland,Connecticut
+2002,152,1231,73,1328,64,N,0,Indiana,Oklahoma
+2002,152,1268,97,1242,88,N,0,Maryland,Kansas
+2002,154,1268,64,1231,52,N,0,Maryland,Indiana
+2003,134,1421,92,1411,84,N,1,UNC Asheville,TX Southern
+2003,136,1112,80,1436,51,N,0,Arizona,Vermont
+2003,136,1113,84,1272,71,N,0,Arizona St,Memphis
+2003,136,1141,79,1166,73,N,0,C Michigan,Creighton
+2003,136,1143,76,1301,74,N,1,California,NC State
+2003,136,1163,58,1140,53,N,0,Connecticut,BYU
+2003,136,1181,67,1161,57,N,0,Duke,Colorado St
+2003,136,1211,74,1153,69,N,0,Gonzaga,Cincinnati
+2003,136,1228,65,1443,60,N,0,Illinois,WKU
+2003,136,1242,64,1429,61,N,0,Kansas,Utah St
+2003,136,1266,72,1221,68,N,0,Marquette,Holy Cross
+2003,136,1281,72,1356,71,N,0,Missouri,S Illinois
+2003,136,1323,70,1454,69,N,0,Notre Dame,WI Milwaukee
+2003,136,1328,71,1354,54,N,0,Oklahoma,S Carolina St
+2003,136,1390,77,1360,69,N,0,Stanford,San Diego
+2003,136,1409,84,1173,71,N,0,Tulsa,Dayton
+2003,136,1458,81,1451,74,N,0,Wisconsin,Weber St
+2003,137,1120,65,1386,63,N,1,Auburn,St Joseph's PA
+2003,137,1139,47,1280,46,N,0,Butler,Mississippi St
+2003,137,1196,85,1358,55,N,0,Florida,Sam Houston St
+2003,137,1231,67,1104,62,N,0,Indiana,Alabama
+2003,137,1246,95,1237,64,N,0,Kentucky,IUPUI
+2003,137,1257,86,1122,64,N,0,Louisville,Austin Peay
+2003,137,1268,75,1423,73,N,0,Maryland,UNC Wilmington
+2003,137,1277,79,1160,64,N,0,Michigan St,Colorado
+2003,137,1329,77,1335,63,N,0,Oklahoma St,Penn
+2003,137,1338,87,1447,61,N,0,Pittsburgh,Wagner
+2003,137,1345,80,1261,56,N,0,Purdue,LSU
+2003,137,1393,76,1264,65,N,0,Syracuse,Manhattan
+2003,137,1400,82,1421,61,N,0,Texas,UNC Asheville
+2003,137,1428,60,1332,58,N,0,Utah,Oregon
+2003,137,1448,76,1190,73,N,0,Wake Forest,ETSU
+2003,137,1462,71,1407,59,N,0,Xavier,Troy
+2003,138,1112,96,1211,95,N,2,Arizona,Gonzaga
+2003,138,1163,85,1390,74,N,0,Connecticut,Stanford
+2003,138,1181,86,1141,60,N,0,Duke,C Michigan
+2003,138,1242,108,1113,76,N,0,Kansas,Arizona St
+2003,138,1266,101,1281,92,N,1,Marquette,Missouri
+2003,138,1323,68,1228,60,N,0,Notre Dame,Illinois
+2003,138,1328,74,1143,65,N,0,Oklahoma,California
+2003,138,1458,61,1409,60,N,0,Wisconsin,Tulsa
+2003,139,1120,68,1448,62,N,0,Auburn,Wake Forest
+2003,139,1139,79,1257,71,N,0,Butler,Louisville
+2003,139,1246,74,1428,54,N,0,Kentucky,Utah
+2003,139,1268,77,1462,64,N,0,Maryland,Xavier
+2003,139,1277,68,1196,46,N,0,Michigan St,Florida
+2003,139,1338,74,1231,52,N,0,Pittsburgh,Indiana
+2003,139,1393,68,1329,56,N,0,Syracuse,Oklahoma St
+2003,139,1400,77,1345,67,N,0,Texas,Purdue
+2003,143,1112,88,1323,71,N,0,Arizona,Notre Dame
+2003,143,1242,69,1181,65,N,0,Kansas,Duke
+2003,143,1246,63,1458,57,N,0,Kentucky,Wisconsin
+2003,143,1266,77,1338,74,N,0,Marquette,Pittsburgh
+2003,144,1277,60,1268,58,N,0,Michigan St,Maryland
+2003,144,1328,65,1139,54,N,0,Oklahoma,Butler
+2003,144,1393,79,1120,78,N,0,Syracuse,Auburn
+2003,144,1400,82,1163,78,N,0,Texas,Connecticut
+2003,145,1242,78,1112,75,N,0,Kansas,Arizona
+2003,145,1266,83,1246,69,N,0,Marquette,Kentucky
+2003,146,1393,63,1328,47,N,0,Syracuse,Oklahoma
+2003,146,1400,85,1277,76,N,0,Texas,Michigan St
+2003,152,1242,94,1266,61,N,0,Kansas,Marquette
+2003,152,1393,95,1400,84,N,0,Syracuse,Texas
+2003,154,1393,81,1242,78,N,0,Syracuse,Kansas
+2004,134,1197,72,1250,57,N,0,Florida A&M,Lehigh
+2004,136,1104,65,1356,64,N,0,Alabama,S Illinois
+2004,136,1163,70,1436,53,N,0,Connecticut,Vermont
+2004,136,1177,76,1173,69,N,2,DePaul,Dayton
+2004,136,1181,96,1106,61,N,0,Duke,Alabama St
+2004,136,1211,76,1434,49,N,0,Gonzaga,Valparaiso
+2004,136,1264,75,1196,60,N,0,Manhattan,Florida
+2004,136,1268,86,1431,83,N,0,Maryland,UTEP
+2004,136,1305,72,1277,66,N,0,Nevada,Michigan St
+2004,136,1314,63,1102,52,N,0,North Carolina,Air Force
+2004,136,1371,80,1112,76,N,0,Seton Hall,Arizona
+2004,136,1386,82,1251,63,N,0,St Joseph's PA,Liberty
+2004,136,1390,71,1427,45,N,0,Stanford,UT San Antonio
+2004,136,1393,80,1140,75,N,0,Syracuse,BYU
+2004,136,1400,66,1343,49,N,0,Texas,Princeton
+2004,136,1403,76,1150,73,N,0,Texas Tech,Charlotte
+2004,136,1448,79,1433,78,N,0,Wake Forest,VCU
+2004,137,1130,58,1428,51,N,0,Boston College,Utah
+2004,137,1153,80,1190,77,N,0,Cincinnati,ETSU
+2004,137,1210,65,1320,60,N,0,Georgia Tech,Northern Iowa
+2004,137,1228,72,1293,53,N,0,Illinois,Murray St
+2004,137,1242,78,1227,53,N,0,Kansas,IL Chicago
+2004,137,1246,96,1197,76,N,0,Kentucky,Florida A&M
+2004,137,1272,59,1376,43,N,0,Memphis,South Carolina
+2004,137,1280,85,1284,52,N,0,Mississippi St,Monmouth NJ
+2004,137,1301,61,1418,52,N,0,NC State,Louisiana
+2004,137,1329,75,1186,56,N,0,Oklahoma St,E Washington
+2004,137,1334,66,1344,58,N,0,Pacific,Providence
+2004,137,1338,53,1416,44,N,0,Pittsburgh,UCF
+2004,137,1412,102,1449,100,N,0,UAB,Washington
+2004,137,1435,71,1444,58,N,0,Vanderbilt,W Michigan
+2004,137,1458,76,1350,64,N,0,Wisconsin,Richmond
+2004,137,1462,80,1257,70,N,0,Xavier,Louisville
+2004,138,1104,70,1390,67,N,0,Alabama,Stanford
+2004,138,1163,72,1177,55,N,0,Connecticut,DePaul
+2004,138,1181,90,1371,62,N,0,Duke,Seton Hall
+2004,138,1305,91,1211,72,N,0,Nevada,Gonzaga
+2004,138,1386,70,1403,65,N,0,St Joseph's PA,Texas Tech
+2004,138,1393,72,1268,70,N,0,Syracuse,Maryland
+2004,138,1400,78,1314,75,N,0,Texas,North Carolina
+2004,138,1448,84,1264,80,N,0,Wake Forest,Manhattan
+2004,139,1210,57,1130,54,N,0,Georgia Tech,Boston College
+2004,139,1228,92,1153,68,N,0,Illinois,Cincinnati
+2004,139,1242,78,1334,63,N,0,Kansas,Pacific
+2004,139,1329,70,1272,53,N,0,Oklahoma St,Memphis
+2004,139,1338,59,1458,55,N,0,Pittsburgh,Wisconsin
+2004,139,1412,76,1246,75,N,0,UAB,Kentucky
+2004,139,1435,75,1301,73,N,0,Vanderbilt,NC State
+2004,139,1462,89,1280,74,N,0,Xavier,Mississippi St
+2004,143,1104,80,1393,71,N,0,Alabama,Syracuse
+2004,143,1163,73,1435,53,N,0,Connecticut,Vanderbilt
+2004,143,1329,63,1338,51,N,0,Oklahoma St,Pittsburgh
+2004,143,1386,84,1448,80,N,0,St Joseph's PA,Wake Forest
+2004,144,1181,72,1228,62,N,0,Duke,Illinois
+2004,144,1210,72,1305,67,N,0,Georgia Tech,Nevada
+2004,144,1242,100,1412,74,N,0,Kansas,UAB
+2004,144,1462,79,1400,71,N,0,Xavier,Texas
+2004,145,1163,87,1104,71,N,0,Connecticut,Alabama
+2004,145,1329,64,1386,62,N,0,Oklahoma St,St Joseph's PA
+2004,146,1181,66,1462,63,N,0,Duke,Xavier
+2004,146,1210,79,1242,71,N,1,Georgia Tech,Kansas
+2004,152,1163,79,1181,78,N,0,Connecticut,Duke
+2004,152,1210,67,1329,65,N,0,Georgia Tech,Oklahoma St
+2004,154,1163,82,1210,73,N,0,Connecticut,Georgia Tech
+2005,134,1324,79,1105,69,N,0,Oakland,Alabama A&M
+2005,136,1112,66,1429,53,N,0,Arizona,Utah St
+2005,136,1130,85,1335,65,N,0,Boston College,Penn
+2005,136,1153,76,1234,64,N,0,Cincinnati,Iowa
+2005,136,1211,74,1457,64,N,0,Gonzaga,Winthrop
+2005,136,1228,67,1192,55,N,0,Illinois,F Dickinson
+2005,136,1246,72,1184,64,N,0,Kentucky,E Kentucky
+2005,136,1305,61,1400,57,N,0,Nevada,Texas
+2005,136,1328,84,1310,67,N,0,Oklahoma,Niagara
+2005,136,1334,79,1338,71,N,0,Pacific,Pittsburgh
+2005,136,1403,78,1417,66,N,0,Texas Tech,UCLA
+2005,136,1412,82,1261,68,N,0,UAB,LSU
+2005,136,1428,60,1431,54,N,0,Utah,UTEP
+2005,136,1448,70,1151,54,N,0,Wake Forest,Chattanooga
+2005,136,1449,88,1285,77,N,0,Washington,Montana
+2005,136,1452,63,1166,61,N,0,West Virginia,Creighton
+2005,136,1454,83,1104,73,N,0,WI Milwaukee,Alabama
+2005,137,1137,64,1242,63,N,0,Bucknell,Kansas
+2005,137,1163,77,1416,71,N,0,Connecticut,UCF
+2005,137,1181,57,1175,46,N,0,Duke,Delaware St
+2005,137,1196,67,1325,62,N,0,Florida,Ohio
+2005,137,1210,80,1203,68,N,0,Georgia Tech,G Washington
+2005,137,1235,64,1278,53,N,0,Iowa St,Minnesota
+2005,137,1257,68,1418,62,N,0,Louisville,Louisiana
+2005,137,1277,89,1330,81,N,0,Michigan St,Old Dominion
+2005,137,1280,93,1390,70,N,0,Mississippi St,Stanford
+2005,137,1301,75,1150,63,N,0,NC State,Charlotte
+2005,137,1314,96,1324,68,N,0,North Carolina,Oakland
+2005,137,1329,63,1368,50,N,0,Oklahoma St,SE Louisiana
+2005,137,1356,65,1388,56,N,0,S Illinois,St Mary's CA
+2005,137,1436,60,1393,57,N,1,Vermont,Syracuse
+2005,137,1437,55,1307,47,N,0,Villanova,New Mexico
+2005,137,1458,57,1320,52,N,0,Wisconsin,Northern Iowa
+2005,138,1112,85,1412,63,N,0,Arizona,UAB
+2005,138,1228,71,1305,59,N,0,Illinois,Nevada
+2005,138,1246,69,1153,60,N,0,Kentucky,Cincinnati
+2005,138,1403,71,1211,69,N,0,Texas Tech,Gonzaga
+2005,138,1428,67,1328,58,N,0,Utah,Oklahoma
+2005,138,1449,97,1334,79,N,0,Washington,Pacific
+2005,138,1452,111,1448,105,N,2,West Virginia,Wake Forest
+2005,138,1454,83,1130,75,N,0,WI Milwaukee,Boston College
+2005,139,1181,63,1280,55,N,0,Duke,Mississippi St
+2005,139,1257,76,1210,54,N,0,Louisville,Georgia Tech
+2005,139,1277,72,1436,61,N,0,Michigan St,Vermont
+2005,139,1301,65,1163,62,N,0,NC State,Connecticut
+2005,139,1314,92,1235,65,N,0,North Carolina,Iowa St
+2005,139,1329,85,1356,77,N,0,Oklahoma St,S Illinois
+2005,139,1437,76,1196,65,N,0,Villanova,Florida
+2005,139,1458,71,1137,62,N,0,Wisconsin,Bucknell
+2005,143,1112,79,1329,78,N,0,Arizona,Oklahoma St
+2005,143,1228,77,1454,63,N,0,Illinois,WI Milwaukee
+2005,143,1257,93,1449,79,N,0,Louisville,Washington
+2005,143,1452,65,1403,60,N,0,West Virginia,Texas Tech
+2005,144,1246,62,1428,52,N,0,Kentucky,Utah
+2005,144,1277,78,1181,68,N,0,Michigan St,Duke
+2005,144,1314,67,1437,66,N,0,North Carolina,Villanova
+2005,144,1458,65,1301,56,N,0,Wisconsin,NC State
+2005,145,1228,90,1112,89,N,1,Illinois,Arizona
+2005,145,1257,93,1452,85,N,1,Louisville,West Virginia
+2005,146,1277,94,1246,88,N,2,Michigan St,Kentucky
+2005,146,1314,88,1458,82,N,0,North Carolina,Wisconsin
+2005,152,1228,72,1257,57,N,0,Illinois,Louisville
+2005,152,1314,87,1277,71,N,0,North Carolina,Michigan St
+2005,154,1314,75,1228,70,N,0,North Carolina,Illinois
+2006,134,1284,71,1214,49,N,0,Monmouth NJ,Hampton
+2006,136,1104,90,1266,85,N,0,Alabama,Marquette
+2006,136,1130,88,1334,76,N,2,Boston College,Pacific
+2006,136,1181,70,1380,54,N,0,Duke,Southern Univ
+2006,136,1196,76,1375,50,N,0,Florida,South Alabama
+2006,136,1203,88,1423,85,N,1,G Washington,UNC Wilmington
+2006,136,1211,79,1462,75,N,0,Gonzaga,Xavier
+2006,136,1228,78,1102,69,N,0,Illinois,Air Force
+2006,136,1231,87,1361,83,N,0,Indiana,San Diego St
+2006,136,1261,80,1233,64,N,0,LSU,Iona
+2006,136,1285,87,1305,79,N,0,Montana,Nevada
+2006,136,1397,63,1457,61,N,0,Tennessee,Winthrop
+2006,136,1401,66,1393,58,N,0,Texas A&M,Syracuse
+2006,136,1417,78,1125,44,N,0,UCLA,Belmont
+2006,136,1449,75,1429,61,N,0,Washington,Utah St
+2006,136,1454,82,1328,74,N,0,WI Milwaukee,Oklahoma
+2006,136,1455,86,1371,66,N,0,Wichita St,Seton Hall
+2006,137,1112,94,1458,75,N,0,Arizona,Wisconsin
+2006,137,1133,77,1242,73,N,0,Bradley,Kansas
+2006,137,1137,59,1116,55,N,0,Bucknell,Arkansas
+2006,137,1163,72,1107,59,N,0,Connecticut,SUNY Albany
+2006,137,1206,75,1277,65,N,0,George Mason,Michigan St
+2006,137,1207,54,1320,49,N,0,Georgetown,Northern Iowa
+2006,137,1246,69,1412,64,N,0,Kentucky,UAB
+2006,137,1272,94,1331,78,N,0,Memphis,Oral Roberts
+2006,137,1301,58,1143,52,N,0,NC State,California
+2006,137,1314,69,1293,65,N,0,North Carolina,Murray St
+2006,137,1322,64,1234,63,N,0,Northwestern LA,Iowa
+2006,137,1326,70,1172,62,N,0,Ohio St,Davidson
+2006,137,1338,79,1245,64,N,0,Pittsburgh,Kent
+2006,137,1400,60,1335,52,N,0,Texas,Penn
+2006,137,1437,58,1284,45,N,0,Villanova,Monmouth NJ
+2006,137,1452,64,1356,46,N,0,West Virginia,S Illinois
+2006,138,1130,69,1285,56,N,0,Boston College,Montana
+2006,138,1181,74,1203,61,N,0,Duke,G Washington
+2006,138,1196,82,1454,60,N,0,Florida,WI Milwaukee
+2006,138,1211,90,1231,80,N,0,Gonzaga,Indiana
+2006,138,1261,58,1401,57,N,0,LSU,Texas A&M
+2006,138,1417,62,1104,59,N,0,UCLA,Alabama
+2006,138,1449,67,1228,64,N,0,Washington,Illinois
+2006,138,1455,80,1397,73,N,0,Wichita St,Tennessee
+2006,139,1133,72,1338,66,N,0,Bradley,Pittsburgh
+2006,139,1163,87,1246,83,N,0,Connecticut,Kentucky
+2006,139,1206,65,1314,60,N,0,George Mason,North Carolina
+2006,139,1207,70,1326,52,N,0,Georgetown,Ohio St
+2006,139,1272,72,1137,56,N,0,Memphis,Bucknell
+2006,139,1400,75,1301,54,N,0,Texas,NC State
+2006,139,1437,82,1112,78,N,0,Villanova,Arizona
+2006,139,1452,67,1322,54,N,0,West Virginia,Northwestern LA
+2006,143,1261,62,1181,54,N,0,LSU,Duke
+2006,143,1272,80,1133,64,N,0,Memphis,Bradley
+2006,143,1400,74,1452,71,N,0,Texas,West Virginia
+2006,143,1417,73,1211,71,N,0,UCLA,Gonzaga
+2006,144,1163,98,1449,92,N,1,Connecticut,Washington
+2006,144,1196,57,1207,53,N,0,Florida,Georgetown
+2006,144,1206,63,1455,55,N,0,George Mason,Wichita St
+2006,144,1437,60,1130,59,N,1,Villanova,Boston College
+2006,145,1261,70,1400,60,N,1,LSU,Texas
+2006,145,1417,50,1272,45,N,0,UCLA,Memphis
+2006,146,1196,75,1437,62,N,0,Florida,Villanova
+2006,146,1206,86,1163,84,N,1,George Mason,Connecticut
+2006,152,1196,73,1206,58,N,0,Florida,George Mason
+2006,152,1417,59,1261,45,N,0,UCLA,LSU
+2006,154,1196,73,1417,57,N,0,Florida,UCLA
+2007,134,1310,77,1197,69,N,0,Niagara,Florida A&M
+2007,136,1130,84,1403,75,N,0,Boston College,Texas Tech
+2007,136,1139,57,1330,46,N,0,Butler,Old Dominion
+2007,136,1207,80,1125,55,N,0,Georgetown,Belmont
+2007,136,1231,70,1211,57,N,0,Indiana,Gonzaga
+2007,136,1257,78,1390,58,N,0,Louisville,Stanford
+2007,136,1268,82,1172,70,N,0,Maryland,Davidson
+2007,136,1277,61,1266,49,N,0,Michigan St,Marquette
+2007,136,1314,86,1184,65,N,0,North Carolina,E Kentucky
+2007,136,1326,78,1148,57,N,0,Ohio St,Central Conn
+2007,136,1338,79,1460,58,N,0,Pittsburgh,Wright St
+2007,136,1401,68,1335,52,N,0,Texas A&M,Penn
+2007,136,1417,70,1451,42,N,0,UCLA,Weber St
+2007,136,1433,79,1181,77,N,0,VCU,Duke
+2007,136,1435,77,1203,44,N,0,Vanderbilt,G Washington
+2007,136,1450,70,1331,54,N,0,Washington St,Oral Roberts
+2007,136,1462,79,1140,77,N,0,Xavier,BYU
+2007,137,1196,112,1238,69,N,0,Florida,Jackson St
+2007,137,1242,107,1310,67,N,0,Kansas,Niagara
+2007,137,1246,67,1437,58,N,0,Kentucky,Villanova
+2007,137,1272,73,1317,58,N,0,Memphis,North Texas
+2007,137,1305,77,1166,71,N,1,Nevada,Creighton
+2007,137,1332,58,1275,56,N,0,Oregon,Miami OH
+2007,137,1345,72,1112,63,N,0,Purdue,Arizona
+2007,137,1356,61,1221,51,N,0,S Illinois,Holy Cross
+2007,137,1397,121,1253,86,N,0,Tennessee,Long Beach St
+2007,137,1400,79,1308,67,N,0,Texas,New Mexico St
+2007,137,1424,67,1210,63,N,0,UNLV,Georgia Tech
+2007,137,1425,77,1116,60,N,0,USC,Arkansas
+2007,137,1438,84,1107,57,N,0,Virginia,SUNY Albany
+2007,137,1439,54,1228,52,N,0,Virginia Tech,Illinois
+2007,137,1457,74,1323,64,N,0,Winthrop,Notre Dame
+2007,137,1458,76,1394,63,N,0,Wisconsin,TAM C. Christi
+2007,138,1139,62,1268,59,N,0,Butler,Maryland
+2007,138,1207,62,1130,55,N,0,Georgetown,Boston College
+2007,138,1314,81,1277,67,N,0,North Carolina,Michigan St
+2007,138,1326,78,1462,71,N,1,Ohio St,Xavier
+2007,138,1338,84,1433,79,N,1,Pittsburgh,VCU
+2007,138,1401,72,1257,69,N,0,Texas A&M,Louisville
+2007,138,1417,54,1231,49,N,0,UCLA,Indiana
+2007,138,1435,78,1450,74,N,2,Vanderbilt,Washington St
+2007,139,1196,74,1345,67,N,0,Florida,Purdue
+2007,139,1242,88,1246,76,N,0,Kansas,Kentucky
+2007,139,1272,78,1305,62,N,0,Memphis,Nevada
+2007,139,1332,75,1457,61,N,0,Oregon,Winthrop
+2007,139,1356,63,1439,48,N,0,S Illinois,Virginia Tech
+2007,139,1397,77,1438,74,N,0,Tennessee,Virginia
+2007,139,1424,74,1458,68,N,0,UNLV,Wisconsin
+2007,139,1425,87,1400,68,N,0,USC,Texas
+2007,143,1242,61,1356,58,N,0,Kansas,S Illinois
+2007,143,1272,65,1401,64,N,0,Memphis,Texas A&M
+2007,143,1326,85,1397,84,N,0,Ohio St,Tennessee
+2007,143,1417,64,1338,55,N,0,UCLA,Pittsburgh
+2007,144,1196,65,1139,57,N,0,Florida,Butler
+2007,144,1207,66,1435,65,N,0,Georgetown,Vanderbilt
+2007,144,1314,74,1425,64,N,0,North Carolina,USC
+2007,144,1332,76,1424,72,N,0,Oregon,UNLV
+2007,145,1326,92,1272,76,N,0,Ohio St,Memphis
+2007,145,1417,68,1242,55,N,0,UCLA,Kansas
+2007,146,1196,85,1332,77,N,0,Florida,Oregon
+2007,146,1207,96,1314,84,N,1,Georgetown,North Carolina
+2007,152,1196,76,1417,66,N,0,Florida,UCLA
+2007,152,1326,67,1207,60,N,0,Ohio St,Georgetown
+2007,154,1196,84,1326,75,N,0,Florida,Ohio St
+2008,134,1291,69,1164,60,N,0,Mt St Mary's,Coppin St
+2008,136,1181,71,1125,70,N,0,Duke,Belmont
+2008,136,1242,85,1340,61,N,0,Kansas,Portland St
+2008,136,1243,80,1425,67,N,0,Kansas St,USC
+2008,136,1266,74,1246,66,N,0,Marquette,Kentucky
+2008,136,1277,72,1396,61,N,0,Michigan St,Temple
+2008,136,1323,68,1206,50,N,0,Notre Dame,George Mason
+2008,136,1338,82,1331,63,N,0,Pittsburgh,Oral Roberts
+2008,136,1345,90,1124,79,N,0,Purdue,Baylor
+2008,136,1390,77,1165,53,N,0,Stanford,Cornell
+2008,136,1401,67,1140,62,N,0,Texas A&M,BYU
+2008,136,1417,70,1290,29,N,0,UCLA,MS Valley St
+2008,136,1424,71,1245,58,N,0,UNLV,Kent
+2008,136,1450,71,1457,40,N,0,Washington St,Winthrop
+2008,136,1452,75,1112,65,N,0,West Virginia,Arizona
+2008,136,1458,71,1168,56,N,0,Wisconsin,CS Fullerton
+2008,136,1462,73,1208,61,N,0,Xavier,Georgia
+2008,137,1116,86,1231,72,N,0,Arkansas,Indiana
+2008,137,1139,81,1375,61,N,0,Butler,South Alabama
+2008,137,1172,82,1211,76,N,0,Davidson,Gonzaga
+2008,137,1207,66,1420,47,N,0,Georgetown,UMBC
+2008,137,1257,79,1129,61,N,0,Louisville,Boise St
+2008,137,1272,87,1426,63,N,0,Memphis,UT Arlington
+2008,137,1274,78,1388,64,N,0,Miami FL,St Mary's CA
+2008,137,1280,76,1332,69,N,0,Mississippi St,Oregon
+2008,137,1314,113,1291,74,N,0,North Carolina,Mt St Mary's
+2008,137,1328,72,1386,64,N,0,Oklahoma,St Joseph's PA
+2008,137,1360,70,1163,69,N,1,San Diego,Connecticut
+2008,137,1373,83,1435,62,N,0,Siena,Vanderbilt
+2008,137,1397,72,1110,57,N,0,Tennessee,American Univ
+2008,137,1400,74,1122,54,N,0,Texas,Austin Peay
+2008,137,1437,75,1155,69,N,0,Villanova,Clemson
+2008,137,1443,101,1179,99,N,1,WKU,Drake
+2008,138,1242,75,1424,56,N,0,Kansas,UNLV
+2008,138,1277,65,1338,54,N,0,Michigan St,Pittsburgh
+2008,138,1390,82,1266,81,N,1,Stanford,Marquette
+2008,138,1417,51,1401,49,N,0,UCLA,Texas A&M
+2008,138,1450,61,1323,41,N,0,Washington St,Notre Dame
+2008,138,1452,73,1181,67,N,0,West Virginia,Duke
+2008,138,1458,72,1243,55,N,0,Wisconsin,Kansas St
+2008,138,1462,85,1345,78,N,0,Xavier,Purdue
+2008,139,1172,74,1207,70,N,0,Davidson,Georgetown
+2008,139,1257,78,1328,48,N,0,Louisville,Oklahoma
+2008,139,1272,77,1280,74,N,0,Memphis,Mississippi St
+2008,139,1314,108,1116,77,N,0,North Carolina,Arkansas
+2008,139,1397,76,1139,71,N,1,Tennessee,Butler
+2008,139,1400,75,1274,72,N,0,Texas,Miami FL
+2008,139,1437,84,1373,72,N,0,Villanova,Siena
+2008,139,1443,72,1360,63,N,0,WKU,San Diego
+2008,143,1257,79,1397,60,N,0,Louisville,Tennessee
+2008,143,1314,68,1450,47,N,0,North Carolina,Washington St
+2008,143,1417,88,1443,78,N,0,UCLA,WKU
+2008,143,1462,79,1452,75,N,1,Xavier,West Virginia
+2008,144,1172,73,1458,56,N,0,Davidson,Wisconsin
+2008,144,1242,72,1437,57,N,0,Kansas,Villanova
+2008,144,1272,92,1277,74,N,0,Memphis,Michigan St
+2008,144,1400,82,1390,62,N,0,Texas,Stanford
+2008,145,1314,83,1257,73,N,0,North Carolina,Louisville
+2008,145,1417,76,1462,57,N,0,UCLA,Xavier
+2008,146,1242,59,1172,57,N,0,Kansas,Davidson
+2008,146,1272,85,1400,67,N,0,Memphis,Texas
+2008,152,1242,84,1314,66,N,0,Kansas,North Carolina
+2008,152,1272,78,1417,63,N,0,Memphis,UCLA
+2008,154,1242,75,1272,68,N,1,Kansas,Memphis
+2009,134,1287,58,1106,43,N,0,Morehead St,Alabama St
+2009,136,1163,103,1151,47,N,0,Connecticut,Chattanooga
+2009,136,1181,86,1127,62,N,0,Duke,Binghamton
+2009,136,1211,77,1103,64,N,0,Gonzaga,Akron
+2009,136,1261,75,1139,71,N,0,LSU,Butler
+2009,136,1268,84,1143,71,N,0,Maryland,California
+2009,136,1272,81,1169,70,N,0,Memphis,CS Northridge
+2009,136,1276,62,1155,59,N,0,Michigan,Clemson
+2009,136,1314,101,1347,58,N,0,North Carolina,Radford
+2009,136,1328,82,1288,54,N,0,Oklahoma,Morgan St
+2009,136,1345,61,1320,56,N,0,Purdue,Northern Iowa
+2009,136,1400,76,1278,62,N,0,Texas,Minnesota
+2009,136,1401,79,1140,66,N,0,Texas A&M,BYU
+2009,136,1417,65,1433,64,N,0,UCLA,VCU
+2009,136,1437,80,1110,67,N,0,Villanova,American Univ
+2009,136,1443,76,1228,72,N,0,WKU,Illinois
+2009,136,1449,71,1280,58,N,0,Washington,Mississippi St
+2009,137,1112,84,1428,71,N,0,Arizona,Utah
+2009,137,1113,66,1396,57,N,0,Arizona St,Temple
+2009,137,1156,84,1448,69,N,0,Cleveland St,Wake Forest
+2009,137,1173,68,1452,60,N,0,Dayton,West Virginia
+2009,137,1242,84,1295,74,N,0,Kansas,N Dakota St
+2009,137,1257,74,1287,54,N,0,Louisville,Morehead St
+2009,137,1266,58,1429,57,N,0,Marquette,Utah St
+2009,137,1277,77,1352,62,N,0,Michigan St,Robert Morris
+2009,137,1281,78,1165,59,N,0,Missouri,Cornell
+2009,137,1329,77,1397,75,N,0,Oklahoma St,Tennessee
+2009,137,1338,72,1190,62,N,0,Pittsburgh,ETSU
+2009,137,1373,74,1326,72,N,2,Siena,Ohio St
+2009,137,1393,59,1372,44,N,0,Syracuse,SF Austin
+2009,137,1425,72,1130,55,N,0,USC,Boston College
+2009,137,1458,61,1199,59,N,1,Wisconsin,Florida St
+2009,137,1462,77,1340,59,N,0,Xavier,Portland St
+2009,138,1163,92,1401,66,N,0,Connecticut,Texas A&M
+2009,138,1181,74,1400,69,N,0,Duke,Texas
+2009,138,1211,83,1443,81,N,0,Gonzaga,WKU
+2009,138,1272,89,1268,70,N,0,Memphis,Maryland
+2009,138,1314,84,1261,70,N,0,North Carolina,LSU
+2009,138,1328,73,1276,63,N,0,Oklahoma,Michigan
+2009,138,1345,76,1449,74,N,0,Purdue,Washington
+2009,138,1437,89,1417,69,N,0,Villanova,UCLA
+2009,139,1112,71,1156,57,N,0,Arizona,Cleveland St
+2009,139,1242,60,1173,43,N,0,Kansas,Dayton
+2009,139,1257,79,1373,72,N,0,Louisville,Siena
+2009,139,1277,74,1425,69,N,0,Michigan St,USC
+2009,139,1281,83,1266,79,N,0,Missouri,Marquette
+2009,139,1338,84,1329,76,N,0,Pittsburgh,Oklahoma St
+2009,139,1393,78,1113,67,N,0,Syracuse,Arizona St
+2009,139,1462,60,1458,49,N,0,Xavier,Wisconsin
+2009,143,1163,72,1345,60,N,0,Connecticut,Purdue
+2009,143,1281,102,1272,91,N,0,Missouri,Memphis
+2009,143,1338,60,1462,55,N,0,Pittsburgh,Xavier
+2009,143,1437,77,1181,54,N,0,Villanova,Duke
+2009,144,1257,103,1112,64,N,0,Louisville,Arizona
+2009,144,1277,67,1242,62,N,0,Michigan St,Kansas
+2009,144,1314,98,1211,77,N,0,North Carolina,Gonzaga
+2009,144,1328,84,1393,71,N,0,Oklahoma,Syracuse
+2009,145,1163,82,1281,75,N,0,Connecticut,Missouri
+2009,145,1437,78,1338,76,N,0,Villanova,Pittsburgh
+2009,146,1277,64,1257,52,N,0,Michigan St,Louisville
+2009,146,1314,72,1328,60,N,0,North Carolina,Oklahoma
+2009,152,1277,82,1163,73,N,0,Michigan St,Connecticut
+2009,152,1314,83,1437,69,N,0,North Carolina,Villanova
+2009,154,1314,89,1277,72,N,0,North Carolina,Michigan St
+2010,134,1115,61,1457,44,N,0,Ark Pine Bluff,Winthrop
+2010,136,1124,68,1358,59,N,0,Baylor,Sam Houston St
+2010,136,1139,77,1431,59,N,0,Butler,UTEP
+2010,136,1140,99,1196,92,N,2,BYU,Florida
+2010,136,1242,90,1250,74,N,0,Kansas,Lehigh
+2010,136,1243,82,1317,62,N,0,Kansas St,North Texas
+2010,136,1246,100,1190,71,N,0,Kentucky,ETSU
+2010,136,1293,66,1435,65,N,0,Murray St,Vanderbilt
+2010,136,1307,62,1285,57,N,0,New Mexico,Montana
+2010,136,1320,69,1424,66,N,0,Northern Iowa,UNLV
+2010,136,1325,97,1207,83,N,0,Ohio,Georgetown
+2010,136,1330,51,1323,50,N,0,Old Dominion,Notre Dame
+2010,136,1388,80,1350,71,N,0,St Mary's CA,Richmond
+2010,136,1397,62,1361,59,N,0,Tennessee,San Diego St
+2010,136,1437,73,1352,70,N,1,Villanova,Robert Morris
+2010,136,1448,81,1400,80,N,1,Wake Forest,Texas
+2010,136,1449,80,1266,78,N,0,Washington,Marquette
+2010,137,1143,77,1257,62,N,0,California,Louisville
+2010,137,1165,78,1396,65,N,0,Cornell,Temple
+2010,137,1181,73,1115,44,N,0,Duke,Ark Pine Bluff
+2010,137,1210,64,1329,59,N,0,Georgia Tech,Oklahoma St
+2010,137,1211,67,1199,60,N,0,Gonzaga,Florida St
+2010,137,1268,89,1222,77,N,0,Maryland,Houston
+2010,137,1277,70,1308,67,N,0,Michigan St,New Mexico St
+2010,137,1281,86,1155,78,N,0,Missouri,Clemson
+2010,137,1326,68,1364,51,N,0,Ohio St,UC Santa Barbara
+2010,137,1338,89,1324,66,N,0,Pittsburgh,Oakland
+2010,137,1345,72,1373,64,N,0,Purdue,Siena
+2010,137,1393,79,1436,56,N,0,Syracuse,Vermont
+2010,137,1401,69,1429,53,N,0,Texas A&M,Utah St
+2010,137,1452,77,1288,50,N,0,West Virginia,Morgan St
+2010,137,1458,53,1459,49,N,0,Wisconsin,Wofford
+2010,137,1462,65,1278,54,N,0,Xavier,Minnesota
+2010,138,1124,76,1330,68,N,0,Baylor,Old Dominion
+2010,138,1139,54,1293,52,N,0,Butler,Murray St
+2010,138,1243,84,1140,72,N,0,Kansas St,BYU
+2010,138,1246,90,1448,60,N,0,Kentucky,Wake Forest
+2010,138,1320,69,1242,67,N,0,Northern Iowa,Kansas
+2010,138,1388,75,1437,68,N,0,St Mary's CA,Villanova
+2010,138,1397,83,1325,68,N,0,Tennessee,Ohio
+2010,138,1449,82,1307,64,N,0,Washington,New Mexico
+2010,139,1165,87,1458,69,N,0,Cornell,Wisconsin
+2010,139,1181,68,1143,53,N,0,Duke,California
+2010,139,1277,85,1268,83,N,0,Michigan St,Maryland
+2010,139,1326,75,1210,66,N,0,Ohio St,Georgia Tech
+2010,139,1345,63,1401,61,N,1,Purdue,Texas A&M
+2010,139,1393,87,1211,65,N,0,Syracuse,Gonzaga
+2010,139,1452,68,1281,59,N,0,West Virginia,Missouri
+2010,139,1462,71,1338,68,N,0,Xavier,Pittsburgh
+2010,143,1139,63,1393,59,N,0,Butler,Syracuse
+2010,143,1243,101,1462,96,N,2,Kansas St,Xavier
+2010,143,1246,62,1165,45,N,0,Kentucky,Cornell
+2010,143,1452,69,1449,56,N,0,West Virginia,Washington
+2010,144,1124,72,1388,49,N,0,Baylor,St Mary's CA
+2010,144,1181,70,1345,57,N,0,Duke,Purdue
+2010,144,1277,59,1320,52,N,0,Michigan St,Northern Iowa
+2010,144,1397,76,1326,73,N,0,Tennessee,Ohio St
+2010,145,1139,63,1243,56,N,0,Butler,Kansas St
+2010,145,1452,73,1246,66,N,0,West Virginia,Kentucky
+2010,146,1181,78,1124,71,N,0,Duke,Baylor
+2010,146,1277,70,1397,69,N,0,Michigan St,Tennessee
+2010,152,1139,52,1277,50,N,0,Butler,Michigan St
+2010,152,1181,78,1452,57,N,0,Duke,West Virginia
+2010,154,1181,61,1139,59,N,0,Duke,Butler
+2011,134,1155,70,1412,52,N,0,Clemson,UAB
+2011,134,1421,81,1114,77,N,1,UNC Asheville,Ark Little Rock
+2011,135,1427,70,1106,61,N,0,UT San Antonio,Alabama St
+2011,135,1433,59,1425,46,N,0,VCU,USC
+2011,136,1139,60,1330,58,N,0,Butler,Old Dominion
+2011,136,1140,74,1459,66,N,0,BYU,Wofford
+2011,136,1153,78,1281,63,N,0,Cincinnati,Missouri
+2011,136,1163,81,1137,52,N,0,Connecticut,Bucknell
+2011,136,1196,79,1364,51,N,0,Florida,UC Santa Barbara
+2011,136,1211,86,1385,71,N,0,Gonzaga,St John's
+2011,136,1243,73,1429,68,N,0,Kansas St,Utah St
+2011,136,1246,59,1343,57,N,0,Kentucky,Princeton
+2011,136,1287,62,1257,61,N,0,Morehead St,Louisville
+2011,136,1338,74,1421,51,N,0,Pittsburgh,UNC Asheville
+2011,136,1350,69,1435,66,N,0,Richmond,Vanderbilt
+2011,136,1361,68,1294,50,N,0,San Diego St,N Colorado
+2011,136,1396,66,1336,64,N,0,Temple,Penn St
+2011,136,1417,78,1277,76,N,0,UCLA,Michigan St
+2011,136,1452,84,1155,76,N,0,West Virginia,Clemson
+2011,136,1458,72,1125,58,N,0,Wisconsin,Belmont
+2011,137,1112,77,1272,75,N,0,Arizona,Memphis
+2011,137,1181,87,1214,45,N,0,Duke,Hampton
+2011,137,1199,57,1401,50,N,0,Florida St,Texas A&M
+2011,137,1206,61,1437,57,N,0,George Mason,Villanova
+2011,137,1228,73,1424,62,N,0,Illinois,UNLV
+2011,137,1242,72,1131,53,N,0,Kansas,Boston Univ
+2011,137,1266,66,1462,55,N,0,Marquette,Xavier
+2011,137,1276,75,1397,45,N,0,Michigan,Tennessee
+2011,137,1314,102,1254,87,N,0,North Carolina,LIU Brooklyn
+2011,137,1323,69,1103,56,N,0,Notre Dame,Akron
+2011,137,1326,75,1427,46,N,0,Ohio St,UT San Antonio
+2011,137,1345,65,1389,43,N,0,Purdue,St Peter's
+2011,137,1393,77,1232,60,N,0,Syracuse,Indiana St
+2011,137,1400,85,1324,81,N,0,Texas,Oakland
+2011,137,1433,74,1207,56,N,0,VCU,Georgetown
+2011,137,1449,68,1208,65,N,0,Washington,Georgia
+2011,138,1139,71,1338,70,N,0,Butler,Pittsburgh
+2011,138,1140,89,1211,67,N,0,BYU,Gonzaga
+2011,138,1163,69,1153,58,N,0,Connecticut,Cincinnati
+2011,138,1196,73,1417,65,N,0,Florida,UCLA
+2011,138,1246,71,1452,63,N,0,Kentucky,West Virginia
+2011,138,1350,65,1287,48,N,0,Richmond,Morehead St
+2011,138,1361,71,1396,64,N,2,San Diego St,Temple
+2011,138,1458,70,1243,65,N,0,Wisconsin,Kansas St
+2011,139,1112,70,1400,69,N,0,Arizona,Texas
+2011,139,1181,73,1276,71,N,0,Duke,Michigan
+2011,139,1199,71,1323,57,N,0,Florida St,Notre Dame
+2011,139,1242,73,1228,59,N,0,Kansas,Illinois
+2011,139,1266,66,1393,62,N,0,Marquette,Syracuse
+2011,139,1314,86,1449,83,N,0,North Carolina,Washington
+2011,139,1326,98,1206,66,N,0,Ohio St,George Mason
+2011,139,1433,94,1345,76,N,0,VCU,Purdue
+2011,143,1112,93,1181,77,N,0,Arizona,Duke
+2011,143,1139,61,1458,54,N,0,Butler,Wisconsin
+2011,143,1163,74,1361,67,N,0,Connecticut,San Diego St
+2011,143,1196,83,1140,74,N,1,Florida,BYU
+2011,144,1242,77,1350,57,N,0,Kansas,Richmond
+2011,144,1246,62,1326,60,N,0,Kentucky,Ohio St
+2011,144,1314,81,1266,63,N,0,North Carolina,Marquette
+2011,144,1433,72,1199,71,N,1,VCU,Florida St
+2011,145,1139,74,1196,71,N,1,Butler,Florida
+2011,145,1163,65,1112,63,N,0,Connecticut,Arizona
+2011,146,1246,76,1314,69,N,0,Kentucky,North Carolina
+2011,146,1433,71,1242,61,N,0,VCU,Kansas
+2011,152,1139,70,1433,62,N,0,Butler,VCU
+2011,152,1163,56,1246,55,N,0,Connecticut,Kentucky
+2011,154,1163,53,1139,41,N,0,Connecticut,Butler
+2012,134,1140,78,1233,72,N,0,BYU,Iona
+2012,134,1443,59,1290,58,N,0,WKU,MS Valley St
+2012,135,1378,65,1143,54,N,0,South Florida,California
+2012,135,1436,71,1249,59,N,0,Vermont,Lamar
+2012,136,1124,68,1355,60,N,0,Baylor,S Dakota St
+2012,136,1160,68,1424,64,N,0,Colorado,UNLV
+2012,136,1211,77,1452,54,N,0,Gonzaga,West Virginia
+2012,136,1231,79,1308,66,N,0,Indiana,New Mexico St
+2012,136,1235,77,1163,64,N,0,Iowa St,Connecticut
+2012,136,1243,70,1379,64,N,0,Kansas St,Southern Miss
+2012,136,1246,81,1443,66,N,0,Kentucky,WKU
+2012,136,1257,69,1172,62,N,0,Louisville,Davidson
+2012,136,1266,88,1140,68,N,0,Marquette,BYU
+2012,136,1293,58,1161,41,N,0,Murray St,Colorado St
+2012,136,1307,75,1253,68,N,0,New Mexico,Long Beach St
+2012,136,1326,78,1259,59,N,0,Ohio St,Loyola MD
+2012,136,1393,72,1421,65,N,0,Syracuse,UNC Asheville
+2012,136,1433,62,1455,59,N,0,VCU,Wichita St
+2012,136,1435,79,1217,70,N,0,Vanderbilt,Harvard
+2012,136,1458,73,1285,49,N,0,Wisconsin,Montana
+2012,137,1153,65,1400,59,N,0,Cincinnati,Texas
+2012,137,1166,58,1104,57,N,0,Creighton,Alabama
+2012,137,1196,71,1438,45,N,0,Florida,Virginia
+2012,137,1199,66,1382,63,N,0,Florida St,St Bonaventure
+2012,137,1207,74,1125,59,N,0,Georgetown,Belmont
+2012,137,1242,65,1178,50,N,0,Kansas,Detroit
+2012,137,1250,75,1181,70,N,0,Lehigh,Duke
+2012,137,1277,89,1254,67,N,0,Michigan St,LIU Brooklyn
+2012,137,1301,79,1361,65,N,0,NC State,San Diego St
+2012,137,1313,86,1281,84,N,0,Norfolk St,Missouri
+2012,137,1314,77,1436,58,N,0,North Carolina,Vermont
+2012,137,1325,65,1276,60,N,0,Ohio,Michigan
+2012,137,1345,72,1388,69,N,0,Purdue,St Mary's CA
+2012,137,1378,58,1396,44,N,0,South Florida,Temple
+2012,137,1387,61,1272,54,N,0,St Louis,Memphis
+2012,137,1462,67,1323,63,N,0,Xavier,Notre Dame
+2012,138,1124,80,1160,63,N,0,Baylor,Colorado
+2012,138,1231,63,1433,61,N,0,Indiana,VCU
+2012,138,1246,87,1235,71,N,0,Kentucky,Iowa St
+2012,138,1257,59,1307,56,N,0,Louisville,New Mexico
+2012,138,1266,62,1293,53,N,0,Marquette,Murray St
+2012,138,1326,73,1211,66,N,0,Ohio St,Gonzaga
+2012,138,1393,75,1243,59,N,0,Syracuse,Kansas St
+2012,138,1458,60,1435,57,N,0,Wisconsin,Vanderbilt
+2012,139,1153,62,1199,56,N,0,Cincinnati,Florida St
+2012,139,1196,84,1313,50,N,0,Florida,Norfolk St
+2012,139,1242,63,1345,60,N,0,Kansas,Purdue
+2012,139,1277,65,1387,61,N,0,Michigan St,St Louis
+2012,139,1301,66,1207,63,N,0,NC State,Georgetown
+2012,139,1314,87,1166,73,N,0,North Carolina,Creighton
+2012,139,1325,62,1378,56,N,0,Ohio,South Florida
+2012,139,1462,70,1250,58,N,0,Xavier,Lehigh
+2012,143,1196,68,1266,58,N,0,Florida,Marquette
+2012,143,1257,57,1277,44,N,0,Louisville,Michigan St
+2012,143,1326,81,1153,66,N,0,Ohio St,Cincinnati
+2012,143,1393,64,1458,63,N,0,Syracuse,Wisconsin
+2012,144,1124,75,1462,70,N,0,Baylor,Xavier
+2012,144,1242,60,1301,57,N,0,Kansas,NC State
+2012,144,1246,102,1231,90,N,0,Kentucky,Indiana
+2012,144,1314,73,1325,65,N,1,North Carolina,Ohio
+2012,145,1257,72,1196,68,N,0,Louisville,Florida
+2012,145,1326,77,1393,70,N,0,Ohio St,Syracuse
+2012,146,1242,80,1314,67,N,0,Kansas,North Carolina
+2012,146,1246,82,1124,70,N,0,Kentucky,Baylor
+2012,152,1242,64,1326,62,N,0,Kansas,Ohio St
+2012,152,1246,69,1257,61,N,0,Kentucky,Louisville
+2012,154,1246,67,1242,59,N,0,Kentucky,Kansas
+2013,134,1299,73,1251,72,N,0,NC A&T,Liberty
+2013,134,1388,67,1292,54,N,0,St Mary's CA,MTSU
+2013,135,1241,68,1254,55,N,0,James Madison,LIU Brooklyn
+2013,135,1247,80,1129,71,N,0,La Salle,Boise St
+2013,136,1112,81,1125,64,N,0,Arizona,Belmont
+2013,136,1139,68,1137,56,N,0,Butler,Bucknell
+2013,136,1143,64,1424,61,N,0,California,UNLV
+2013,136,1161,84,1281,72,N,0,Colorado St,Missouri
+2013,136,1211,64,1380,58,N,0,Gonzaga,Southern Univ
+2013,136,1217,68,1307,62,N,0,Harvard,New Mexico
+2013,136,1257,79,1299,48,N,0,Louisville,NC A&T
+2013,136,1266,59,1172,58,N,0,Marquette,Davidson
+2013,136,1272,54,1388,52,N,0,Memphis,St Mary's CA
+2013,136,1276,71,1355,56,N,0,Michigan,S Dakota St
+2013,136,1277,65,1434,54,N,0,Michigan St,Valparaiso
+2013,136,1332,68,1329,55,N,0,Oregon,Oklahoma St
+2013,136,1387,64,1308,44,N,0,St Louis,New Mexico St
+2013,136,1393,81,1285,34,N,0,Syracuse,Montana
+2013,136,1433,88,1103,42,N,0,VCU,Akron
+2013,136,1455,73,1338,55,N,0,Wichita St,Pittsburgh
+2013,137,1166,67,1153,63,N,0,Creighton,Cincinnati
+2013,137,1181,73,1107,61,N,0,Duke,SUNY Albany
+2013,137,1195,78,1207,68,N,0,FGCU,Georgetown
+2013,137,1196,79,1322,47,N,0,Florida,Northwestern LA
+2013,137,1228,57,1160,49,N,0,Illinois,Colorado
+2013,137,1231,83,1241,62,N,0,Indiana,James Madison
+2013,137,1235,76,1323,58,N,0,Iowa St,Notre Dame
+2013,137,1242,64,1443,57,N,0,Kansas,WKU
+2013,137,1247,63,1243,61,N,0,La Salle,Kansas St
+2013,137,1274,78,1334,49,N,0,Miami FL,Pacific
+2013,137,1278,83,1417,63,N,0,Minnesota,UCLA
+2013,137,1279,57,1458,46,N,0,Mississippi,Wisconsin
+2013,137,1314,78,1437,71,N,0,North Carolina,Villanova
+2013,137,1326,95,1233,70,N,0,Ohio St,Iona
+2013,137,1361,70,1328,55,N,0,San Diego St,Oklahoma
+2013,137,1396,76,1301,72,N,0,Temple,NC State
+2013,138,1112,74,1217,51,N,0,Arizona,Harvard
+2013,138,1257,82,1161,56,N,0,Louisville,Colorado St
+2013,138,1266,74,1139,72,N,0,Marquette,Butler
+2013,138,1276,78,1433,53,N,0,Michigan,VCU
+2013,138,1277,70,1272,48,N,0,Michigan St,Memphis
+2013,138,1332,74,1387,57,N,0,Oregon,St Louis
+2013,138,1393,66,1143,60,N,0,Syracuse,California
+2013,138,1455,76,1211,70,N,0,Wichita St,Gonzaga
+2013,139,1181,66,1166,50,N,0,Duke,Creighton
+2013,139,1195,81,1361,71,N,0,FGCU,San Diego St
+2013,139,1196,78,1278,64,N,0,Florida,Minnesota
+2013,139,1231,58,1396,52,N,0,Indiana,Temple
+2013,139,1242,70,1314,58,N,0,Kansas,North Carolina
+2013,139,1247,76,1279,74,N,0,La Salle,Mississippi
+2013,139,1274,63,1228,59,N,0,Miami FL,Illinois
+2013,139,1326,78,1235,75,N,0,Ohio St,Iowa St
+2013,143,1266,71,1274,61,N,0,Marquette,Miami FL
+2013,143,1326,73,1112,70,N,0,Ohio St,Arizona
+2013,143,1393,61,1231,50,N,0,Syracuse,Indiana
+2013,143,1455,72,1247,58,N,0,Wichita St,La Salle
+2013,144,1181,71,1277,61,N,0,Duke,Michigan St
+2013,144,1196,62,1195,50,N,0,Florida,FGCU
+2013,144,1257,77,1332,69,N,0,Louisville,Oregon
+2013,144,1276,87,1242,85,N,1,Michigan,Kansas
+2013,145,1393,55,1266,39,N,0,Syracuse,Marquette
+2013,145,1455,70,1326,66,N,0,Wichita St,Ohio St
+2013,146,1257,85,1181,63,N,0,Louisville,Duke
+2013,146,1276,79,1196,59,N,0,Michigan,Florida
+2013,152,1257,72,1455,68,N,0,Louisville,Wichita St
+2013,152,1276,61,1393,56,N,0,Michigan,Syracuse
+2013,154,1257,82,1276,76,N,0,Louisville,Michigan
+2014,134,1107,71,1291,64,N,0,SUNY Albany,Mt St Mary's
+2014,134,1301,74,1462,59,N,0,NC State,Xavier
+2014,135,1142,81,1411,69,N,0,Cal Poly,TX Southern
+2014,135,1397,78,1234,65,N,1,Tennessee,Iowa
+2014,136,1163,89,1386,81,N,1,Connecticut,St Joseph's PA
+2014,136,1173,60,1326,59,N,0,Dayton,Ohio St
+2014,136,1196,67,1107,55,N,0,Florida,SUNY Albany
+2014,136,1217,61,1153,57,N,0,Harvard,Cincinnati
+2014,136,1257,71,1264,64,N,0,Louisville,Manhattan
+2014,136,1276,57,1459,40,N,0,Michigan,Wofford
+2014,136,1277,93,1174,78,N,0,Michigan St,Delaware
+2014,136,1295,80,1328,75,N,1,N Dakota St,Oklahoma
+2014,136,1332,87,1140,68,N,0,Oregon,BYU
+2014,136,1338,77,1160,48,N,0,Pittsburgh,Colorado
+2014,136,1361,73,1308,69,N,1,San Diego St,New Mexico St
+2014,136,1387,83,1301,80,N,1,St Louis,NC State
+2014,136,1393,77,1444,53,N,0,Syracuse,W Michigan
+2014,136,1400,87,1113,85,N,0,Texas,Arizona St
+2014,136,1437,73,1454,53,N,0,Villanova,WI Milwaukee
+2014,136,1458,75,1110,35,N,0,Wisconsin,American Univ
+2014,137,1112,68,1451,59,N,0,Arizona,Weber St
+2014,137,1124,74,1304,60,N,0,Baylor,Nebraska
+2014,137,1166,76,1418,66,N,0,Creighton,Louisiana
+2014,137,1211,85,1329,77,N,0,Gonzaga,Oklahoma St
+2014,137,1235,93,1300,75,N,0,Iowa St,NC Central
+2014,137,1242,80,1184,69,N,0,Kansas,E Kentucky
+2014,137,1246,56,1243,49,N,0,Kentucky,Kansas St
+2014,137,1272,71,1203,66,N,0,Memphis,G Washington
+2014,137,1273,78,1181,71,N,0,Mercer,Duke
+2014,137,1314,79,1344,77,N,0,North Carolina,Providence
+2014,137,1372,77,1433,75,N,1,SF Austin,VCU
+2014,137,1390,58,1307,53,N,0,Stanford,New Mexico
+2014,137,1397,86,1269,67,N,0,Tennessee,Massachusetts
+2014,137,1417,76,1409,59,N,0,UCLA,Tulsa
+2014,137,1438,70,1157,59,N,0,Virginia,Coastal Car
+2014,137,1455,64,1142,37,N,0,Wichita St,Cal Poly
+2014,138,1163,77,1437,65,N,0,Connecticut,Villanova
+2014,138,1173,55,1393,53,N,0,Dayton,Syracuse
+2014,138,1196,61,1338,45,N,0,Florida,Pittsburgh
+2014,138,1257,66,1387,51,N,0,Louisville,St Louis
+2014,138,1276,79,1400,65,N,0,Michigan,Texas
+2014,138,1277,80,1217,73,N,0,Michigan St,Harvard
+2014,138,1361,63,1295,44,N,0,San Diego St,N Dakota St
+2014,138,1458,85,1332,77,N,0,Wisconsin,Oregon
+2014,139,1112,84,1211,61,N,0,Arizona,Gonzaga
+2014,139,1124,85,1166,55,N,0,Baylor,Creighton
+2014,139,1235,85,1314,83,N,0,Iowa St,North Carolina
+2014,139,1246,78,1455,76,N,0,Kentucky,Wichita St
+2014,139,1390,60,1242,57,N,0,Stanford,Kansas
+2014,139,1397,83,1273,63,N,0,Tennessee,Mercer
+2014,139,1417,77,1372,60,N,0,UCLA,SF Austin
+2014,139,1438,78,1272,60,N,0,Virginia,Memphis
+2014,143,1112,70,1361,64,N,0,Arizona,San Diego St
+2014,143,1173,82,1390,72,N,0,Dayton,Stanford
+2014,143,1196,79,1417,68,N,0,Florida,UCLA
+2014,143,1458,69,1124,52,N,0,Wisconsin,Baylor
+2014,144,1163,81,1235,76,N,0,Connecticut,Iowa St
+2014,144,1246,74,1257,69,N,0,Kentucky,Louisville
+2014,144,1276,73,1397,71,N,0,Michigan,Tennessee
+2014,144,1277,61,1438,59,N,0,Michigan St,Virginia
+2014,145,1196,62,1173,52,N,0,Florida,Dayton
+2014,145,1458,64,1112,63,N,1,Wisconsin,Arizona
+2014,146,1163,60,1277,54,N,0,Connecticut,Michigan St
+2014,146,1246,75,1276,72,N,0,Kentucky,Michigan
+2014,152,1163,63,1196,53,N,0,Connecticut,Florida
+2014,152,1246,74,1458,73,N,0,Kentucky,Wisconsin
+2014,154,1163,60,1246,54,N,0,Connecticut,Kentucky
+2015,134,1214,74,1264,64,N,0,Hampton,Manhattan
+2015,134,1279,94,1140,90,N,0,Mississippi,BYU
+2015,135,1173,56,1129,55,N,0,Dayton,Boise St
+2015,135,1352,81,1316,77,N,0,Robert Morris,North Florida
+2015,136,1112,93,1411,72,N,0,Arizona,TX Southern
+2015,136,1116,56,1459,53,N,0,Arkansas,Wofford
+2015,136,1139,56,1400,48,N,0,Butler,Texas
+2015,136,1153,66,1345,65,N,1,Cincinnati,Purdue
+2015,136,1207,84,1186,74,N,0,Georgetown,E Washington
+2015,136,1209,57,1124,56,N,0,Georgia St,Baylor
+2015,136,1246,79,1214,56,N,0,Kentucky,Hampton
+2015,136,1301,66,1261,65,N,0,NC State,LSU
+2015,136,1314,67,1217,65,N,0,North Carolina,Harvard
+2015,136,1323,69,1318,65,N,0,Notre Dame,Northeastern
+2015,136,1326,75,1433,72,N,1,Ohio St,VCU
+2015,136,1412,60,1235,59,N,0,UAB,Iowa St
+2015,136,1417,60,1374,59,N,0,UCLA,SMU
+2015,136,1428,57,1372,50,N,0,Utah,SF Austin
+2015,136,1437,93,1248,52,N,0,Villanova,Lafayette
+2015,136,1462,76,1279,57,N,0,Xavier,Mississippi
+2015,137,1173,66,1344,53,N,0,Dayton,Providence
+2015,137,1181,85,1352,56,N,0,Duke,Robert Morris
+2015,137,1211,86,1295,76,N,0,Gonzaga,N Dakota St
+2015,137,1234,83,1172,52,N,0,Iowa,Davidson
+2015,137,1242,75,1308,56,N,0,Kansas,New Mexico St
+2015,137,1257,57,1414,55,N,0,Louisville,UC Irvine
+2015,137,1268,65,1434,62,N,0,Maryland,Valparaiso
+2015,137,1277,70,1208,63,N,0,Michigan St,Georgia
+2015,137,1320,71,1461,54,N,0,Northern Iowa,Wyoming
+2015,137,1328,69,1107,60,N,0,Oklahoma,SUNY Albany
+2015,137,1332,79,1329,73,N,0,Oregon,Oklahoma St
+2015,137,1361,76,1385,64,N,0,San Diego St,St John's
+2015,137,1438,79,1125,67,N,0,Virginia,Belmont
+2015,137,1452,68,1138,62,N,0,West Virginia,Buffalo
+2015,137,1455,81,1231,76,N,0,Wichita St,Indiana
+2015,137,1458,86,1157,72,N,0,Wisconsin,Coastal Car
+2015,138,1112,73,1326,58,N,0,Arizona,Ohio St
+2015,138,1246,64,1153,51,N,0,Kentucky,Cincinnati
+2015,138,1301,71,1437,68,N,0,NC State,Villanova
+2015,138,1314,87,1116,78,N,0,North Carolina,Arkansas
+2015,138,1323,67,1139,64,N,1,Notre Dame,Butler
+2015,138,1417,92,1412,75,N,0,UCLA,UAB
+2015,138,1428,75,1207,64,N,0,Utah,Georgetown
+2015,138,1462,75,1209,67,N,0,Xavier,Georgia St
+2015,139,1181,68,1361,49,N,0,Duke,San Diego St
+2015,139,1211,87,1234,68,N,0,Gonzaga,Iowa
+2015,139,1257,66,1320,53,N,0,Louisville,Northern Iowa
+2015,139,1277,60,1438,54,N,0,Michigan St,Virginia
+2015,139,1328,72,1173,66,N,0,Oklahoma,Dayton
+2015,139,1452,69,1268,59,N,0,West Virginia,Maryland
+2015,139,1455,78,1242,65,N,0,Wichita St,Kansas
+2015,139,1458,72,1332,65,N,0,Wisconsin,Oregon
+2015,143,1112,68,1462,60,N,0,Arizona,Xavier
+2015,143,1246,78,1452,39,N,0,Kentucky,West Virginia
+2015,143,1323,81,1455,70,N,0,Notre Dame,Wichita St
+2015,143,1458,79,1314,72,N,0,Wisconsin,North Carolina
+2015,144,1181,63,1428,57,N,0,Duke,Utah
+2015,144,1211,74,1417,62,N,0,Gonzaga,UCLA
+2015,144,1257,75,1301,65,N,0,Louisville,NC State
+2015,144,1277,62,1328,58,N,0,Michigan St,Oklahoma
+2015,145,1246,68,1323,66,N,0,Kentucky,Notre Dame
+2015,145,1458,85,1112,78,N,0,Wisconsin,Arizona
+2015,146,1181,66,1211,52,N,0,Duke,Gonzaga
+2015,146,1277,76,1257,70,N,1,Michigan St,Louisville
+2015,152,1181,81,1277,61,N,0,Duke,Michigan St
+2015,152,1458,71,1246,64,N,0,Wisconsin,Kentucky
+2015,154,1181,68,1458,63,N,0,Duke,Wisconsin
+2016,134,1195,96,1192,65,N,0,FGCU,F Dickinson
+2016,134,1455,70,1435,50,N,0,Wichita St,Vanderbilt
+2016,135,1221,59,1380,55,N,0,Holy Cross,Southern Univ
+2016,135,1276,67,1409,62,N,0,Michigan,Tulsa
+2016,136,1114,85,1345,83,N,2,Ark Little Rock,Purdue
+2016,136,1139,71,1403,61,N,0,Butler,Texas Tech
+2016,136,1163,74,1160,67,N,0,Connecticut,Colorado
+2016,136,1181,93,1423,85,N,0,Duke,UNC Wilmington
+2016,136,1211,68,1371,52,N,0,Gonzaga,Seton Hall
+2016,136,1231,99,1151,74,N,0,Indiana,Chattanooga
+2016,136,1235,94,1233,81,N,0,Iowa St,Iona
+2016,136,1242,105,1122,79,N,0,Kansas,Austin Peay
+2016,136,1246,85,1392,57,N,0,Kentucky,Stony Brook
+2016,136,1274,79,1138,72,N,0,Miami FL,Buffalo
+2016,136,1314,83,1195,67,N,0,North Carolina,FGCU
+2016,136,1344,70,1425,69,N,0,Providence,USC
+2016,136,1428,80,1201,69,N,0,Utah,Fresno St
+2016,136,1438,81,1214,45,N,0,Virginia,Hampton
+2016,136,1455,65,1112,55,N,0,Wichita St,Arizona
+2016,136,1463,79,1124,75,N,0,Yale,Baylor
+2016,137,1218,77,1143,66,N,0,Hawaii,California
+2016,137,1234,72,1396,70,N,1,Iowa,Temple
+2016,137,1268,79,1355,74,N,0,Maryland,S Dakota St
+2016,137,1292,90,1277,81,N,0,MTSU,Michigan St
+2016,137,1320,75,1400,72,N,0,Northern Iowa,Texas
+2016,137,1323,70,1276,63,N,0,Notre Dame,Michigan
+2016,137,1328,82,1167,68,N,0,Oklahoma,CS Bakersfield
+2016,137,1332,91,1221,52,N,0,Oregon,Holy Cross
+2016,137,1372,70,1452,56,N,0,SF Austin,West Virginia
+2016,137,1386,78,1153,76,N,0,St Joseph's PA,Cincinnati
+2016,137,1393,70,1173,51,N,0,Syracuse,Dayton
+2016,137,1401,92,1453,65,N,0,Texas A&M,WI Green Bay
+2016,137,1433,75,1333,67,N,0,VCU,Oregon St
+2016,137,1437,86,1421,56,N,0,Villanova,UNC Asheville
+2016,137,1458,47,1338,43,N,0,Wisconsin,Pittsburgh
+2016,137,1462,71,1451,53,N,0,Xavier,Weber St
+2016,138,1181,71,1463,64,N,0,Duke,Yale
+2016,138,1211,82,1428,59,N,0,Gonzaga,Utah
+2016,138,1231,73,1246,67,N,0,Indiana,Kentucky
+2016,138,1235,78,1114,61,N,0,Iowa St,Ark Little Rock
+2016,138,1242,73,1163,61,N,0,Kansas,Connecticut
+2016,138,1274,65,1455,57,N,0,Miami FL,Wichita St
+2016,138,1314,85,1344,66,N,0,North Carolina,Providence
+2016,138,1438,77,1139,69,N,0,Virginia,Butler
+2016,139,1268,73,1218,60,N,0,Maryland,Hawaii
+2016,139,1323,76,1372,75,N,0,Notre Dame,SF Austin
+2016,139,1328,85,1433,81,N,0,Oklahoma,VCU
+2016,139,1332,69,1386,64,N,0,Oregon,St Joseph's PA
+2016,139,1393,75,1292,50,N,0,Syracuse,MTSU
+2016,139,1401,92,1320,88,N,2,Texas A&M,Northern Iowa
+2016,139,1437,87,1234,68,N,0,Villanova,Iowa
+2016,139,1458,66,1462,63,N,0,Wisconsin,Xavier
+2016,143,1242,79,1268,63,N,0,Kansas,Maryland
+2016,143,1328,77,1401,63,N,0,Oklahoma,Texas A&M
+2016,143,1332,82,1181,68,N,0,Oregon,Duke
+2016,143,1437,92,1274,69,N,0,Villanova,Miami FL
+2016,144,1314,101,1231,86,N,0,North Carolina,Indiana
+2016,144,1323,61,1458,56,N,0,Notre Dame,Wisconsin
+2016,144,1393,63,1211,60,N,0,Syracuse,Gonzaga
+2016,144,1438,84,1235,71,N,0,Virginia,Iowa St
+2016,145,1328,80,1332,68,N,0,Oklahoma,Oregon
+2016,145,1437,64,1242,59,N,0,Villanova,Kansas
+2016,146,1314,88,1323,74,N,0,North Carolina,Notre Dame
+2016,146,1393,68,1438,62,N,0,Syracuse,Virginia
+2016,152,1314,83,1393,66,N,0,North Carolina,Syracuse
+2016,152,1437,95,1328,51,N,0,Villanova,Oklahoma
+2016,154,1437,77,1314,74,N,0,Villanova,North Carolina
+2017,134,1243,95,1448,88,N,0,Kansas St,Wake Forest
+2017,134,1291,67,1309,66,N,0,Mt St Mary's,New Orleans
+2017,135,1413,67,1300,63,N,0,UC Davis,NC Central
+2017,135,1425,75,1344,71,N,0,USC,Providence
+2017,136,1112,100,1315,82,N,0,Arizona,North Dakota
+2017,136,1139,76,1457,64,N,0,Butler,Winthrop
+2017,136,1196,80,1190,65,N,0,Florida,ETSU
+2017,136,1199,86,1195,80,N,0,Florida St,FGCU
+2017,136,1211,66,1355,46,N,0,Gonzaga,S Dakota St
+2017,136,1235,84,1305,73,N,0,Iowa St,Nevada
+2017,136,1292,81,1278,72,N,0,MTSU,Minnesota
+2017,136,1321,68,1435,66,N,0,Northwestern,Vanderbilt
+2017,136,1323,60,1343,58,N,0,Notre Dame,Princeton
+2017,136,1345,80,1436,70,N,0,Purdue,Vermont
+2017,136,1388,85,1433,77,N,0,St Mary's CA,VCU
+2017,136,1437,76,1291,56,N,0,Villanova,Mt St Mary's
+2017,136,1438,76,1423,71,N,0,Virginia,UNC Wilmington
+2017,136,1452,86,1137,80,N,0,West Virginia,Bucknell
+2017,136,1458,84,1439,74,N,0,Wisconsin,Virginia Tech
+2017,136,1462,76,1268,65,N,0,Xavier,Maryland
+2017,137,1116,77,1371,71,N,0,Arkansas,Seton Hall
+2017,137,1124,91,1308,73,N,0,Baylor,New Mexico St
+2017,137,1153,75,1243,61,N,0,Cincinnati,Kansas St
+2017,137,1181,87,1407,65,N,0,Duke,Troy
+2017,137,1242,100,1413,62,N,0,Kansas,UC Davis
+2017,137,1246,79,1297,70,N,0,Kentucky,N Kentucky
+2017,137,1257,78,1240,63,N,0,Louisville,Jacksonville St
+2017,137,1276,92,1329,91,N,0,Michigan,Oklahoma St
+2017,137,1277,78,1274,58,N,0,Michigan St,Miami FL
+2017,137,1314,103,1411,64,N,0,North Carolina,TX Southern
+2017,137,1332,93,1233,77,N,0,Oregon,Iona
+2017,137,1348,84,1166,72,N,0,Rhode Island,Creighton
+2017,137,1376,93,1266,73,N,0,South Carolina,Marquette
+2017,137,1417,97,1245,80,N,0,UCLA,Kent
+2017,137,1425,66,1374,65,N,0,USC,SMU
+2017,137,1455,64,1173,58,N,0,Wichita St,Dayton
+2017,138,1112,69,1388,60,N,0,Arizona,St Mary's CA
+2017,138,1139,74,1292,65,N,0,Butler,MTSU
+2017,138,1196,65,1438,39,N,0,Florida,Virginia
+2017,138,1211,79,1321,73,N,0,Gonzaga,Northwestern
+2017,138,1345,80,1235,76,N,0,Purdue,Iowa St
+2017,138,1452,83,1323,71,N,0,West Virginia,Notre Dame
+2017,138,1458,65,1437,62,N,0,Wisconsin,Villanova
+2017,138,1462,91,1199,66,N,0,Xavier,Florida St
+2017,139,1124,82,1425,78,N,0,Baylor,USC
+2017,139,1242,90,1277,70,N,0,Kansas,Michigan St
+2017,139,1246,65,1455,62,N,0,Kentucky,Wichita St
+2017,139,1276,73,1257,69,N,0,Michigan,Louisville
+2017,139,1314,72,1116,65,N,0,North Carolina,Arkansas
+2017,139,1332,75,1348,72,N,0,Oregon,Rhode Island
+2017,139,1376,88,1181,81,N,0,South Carolina,Duke
+2017,139,1417,79,1153,67,N,0,UCLA,Cincinnati
+2017,143,1211,61,1452,58,N,0,Gonzaga,West Virginia
+2017,143,1242,98,1345,66,N,0,Kansas,Purdue
+2017,143,1332,69,1276,68,N,0,Oregon,Michigan
+2017,143,1462,73,1112,71,N,0,Xavier,Arizona
+2017,144,1196,84,1458,83,N,1,Florida,Wisconsin
+2017,144,1246,86,1417,75,N,0,Kentucky,UCLA
+2017,144,1314,92,1139,80,N,0,North Carolina,Butler
+2017,144,1376,70,1124,50,N,0,South Carolina,Baylor
+2017,145,1211,83,1462,59,N,0,Gonzaga,Xavier
+2017,145,1332,74,1242,60,N,0,Oregon,Kansas
+2017,146,1314,75,1246,73,N,0,North Carolina,Kentucky
+2017,146,1376,77,1196,70,N,0,South Carolina,Florida
+2017,152,1211,77,1376,73,N,0,Gonzaga,South Carolina
+2017,152,1314,77,1332,76,N,0,North Carolina,Oregon
+2017,154,1314,71,1211,65,N,0,North Carolina,Gonzaga
+2018,134,1347,71,1254,61,N,0,Radford,LIU Brooklyn
+2018,134,1382,65,1417,58,N,0,St Bonaventure,UCLA
+2018,135,1393,60,1113,56,N,0,Syracuse,Arizona St
+2018,135,1411,64,1300,46,N,0,TX Southern,NC Central
+2018,136,1104,86,1439,83,N,0,Alabama,Virginia Tech
+2018,136,1138,89,1112,68,N,0,Buffalo,Arizona
+2018,136,1181,89,1233,67,N,0,Duke,Iona
+2018,136,1196,77,1382,62,N,0,Florida,St Bonaventure
+2018,136,1211,68,1422,64,N,0,Gonzaga,UNC Greensboro
+2018,136,1222,67,1361,65,N,0,Houston,San Diego St
+2018,136,1242,76,1335,60,N,0,Kansas,Penn
+2018,136,1246,78,1172,73,N,0,Kentucky,Davidson
+2018,136,1260,64,1274,62,N,0,Loyola-Chicago,Miami FL
+2018,136,1276,61,1285,47,N,0,Michigan,Montana
+2018,136,1326,81,1355,73,N,0,Ohio St,S Dakota St
+2018,136,1348,83,1328,78,N,1,Rhode Island,Oklahoma
+2018,136,1371,94,1301,83,N,0,Seton Hall,NC State
+2018,136,1397,73,1460,47,N,0,Tennessee,Wright St
+2018,136,1403,70,1372,60,N,0,Texas Tech,SF Austin
+2018,136,1437,87,1347,61,N,0,Villanova,Radford
+2018,137,1120,62,1158,58,N,0,Auburn,Col Charleston
+2018,137,1139,79,1116,62,N,0,Butler,Arkansas
+2018,137,1153,68,1209,53,N,0,Cincinnati,Georgia St
+2018,137,1155,79,1308,68,N,0,Clemson,New Mexico St
+2018,137,1199,67,1281,54,N,0,Florida St,Missouri
+2018,137,1243,69,1166,59,N,0,Kansas St,Creighton
+2018,137,1267,81,1455,75,N,0,Marshall,Wichita St
+2018,137,1277,82,1137,78,N,0,Michigan St,Bucknell
+2018,137,1305,87,1400,83,N,1,Nevada,Texas
+2018,137,1314,84,1252,66,N,0,North Carolina,Lipscomb
+2018,137,1345,74,1168,48,N,0,Purdue,CS Fullerton
+2018,137,1393,57,1395,52,N,0,Syracuse,TCU
+2018,137,1401,73,1344,69,N,0,Texas A&M,Providence
+2018,137,1420,74,1438,54,N,0,UMBC,Virginia
+2018,137,1452,85,1293,68,N,0,West Virginia,Murray St
+2018,137,1462,102,1411,83,N,0,Xavier,TX Southern
+2018,138,1181,87,1348,62,N,0,Duke,Rhode Island
+2018,138,1211,90,1326,84,N,0,Gonzaga,Ohio St
+2018,138,1242,83,1371,79,N,0,Kansas,Seton Hall
+2018,138,1246,95,1138,75,N,0,Kentucky,Buffalo
+2018,138,1260,63,1397,62,N,0,Loyola-Chicago,Tennessee
+2018,138,1276,64,1222,63,N,0,Michigan,Houston
+2018,138,1403,69,1196,66,N,0,Texas Tech,Florida
+2018,138,1437,81,1104,58,N,0,Villanova,Alabama
+2018,139,1155,84,1120,53,N,0,Clemson,Auburn
+2018,139,1199,75,1462,70,N,0,Florida St,Xavier
+2018,139,1243,50,1420,43,N,0,Kansas St,UMBC
+2018,139,1305,75,1153,73,N,0,Nevada,Cincinnati
+2018,139,1345,76,1139,73,N,0,Purdue,Butler
+2018,139,1393,55,1277,53,N,0,Syracuse,Michigan St
+2018,139,1401,86,1314,65,N,0,Texas A&M,North Carolina
+2018,139,1452,94,1267,71,N,0,West Virginia,Marshall
+2018,143,1199,75,1211,60,N,0,Florida St,Gonzaga
+2018,143,1243,61,1246,58,N,0,Kansas St,Kentucky
+2018,143,1260,69,1305,68,N,0,Loyola-Chicago,Nevada
+2018,143,1276,99,1401,72,N,0,Michigan,Texas A&M
+2018,144,1181,69,1393,65,N,0,Duke,Syracuse
+2018,144,1242,80,1155,76,N,0,Kansas,Clemson
+2018,144,1403,78,1345,65,N,0,Texas Tech,Purdue
+2018,144,1437,90,1452,78,N,0,Villanova,West Virginia
+2018,145,1260,78,1243,62,N,0,Loyola-Chicago,Kansas St
+2018,145,1276,58,1199,54,N,0,Michigan,Florida St
+2018,146,1242,85,1181,81,N,1,Kansas,Duke
+2018,146,1437,71,1403,59,N,0,Villanova,Texas Tech
+2018,152,1276,69,1260,57,N,0,Michigan,Loyola-Chicago
+2018,152,1437,95,1242,79,N,0,Villanova,Kansas
+2018,154,1437,79,1276,62,N,0,Villanova,Michigan
+2019,134,1125,81,1396,70,N,0,Belmont,Temple
+2019,134,1192,82,1341,76,N,0,F Dickinson,Prairie View
+2019,135,1113,74,1385,65,N,0,Arizona St,St John's
+2019,135,1295,78,1300,74,N,0,N Dakota St,NC Central
+2019,136,1120,78,1308,77,N,0,Auburn,New Mexico St
+2019,136,1124,78,1393,69,N,0,Baylor,Syracuse
+2019,136,1196,70,1305,61,N,0,Florida,Nevada
+2019,136,1199,76,1436,69,N,0,Florida St,Vermont
+2019,136,1211,87,1192,49,N,0,Gonzaga,F Dickinson
+2019,136,1242,87,1318,53,N,0,Kansas,Northeastern
+2019,136,1246,79,1101,44,N,0,Kentucky,Abilene Chr
+2019,136,1261,79,1463,74,N,0,LSU,Yale
+2019,136,1268,79,1125,77,N,0,Maryland,Belmont
+2019,136,1276,74,1285,55,N,0,Michigan,Montana
+2019,136,1277,76,1133,65,N,0,Michigan St,Bradley
+2019,136,1278,86,1257,76,N,0,Minnesota,Louisville
+2019,136,1293,83,1266,64,N,0,Murray St,Marquette
+2019,136,1345,61,1330,48,N,0,Purdue,Old Dominion
+2019,136,1437,61,1388,57,N,0,Villanova,St Mary's CA
+2019,136,1459,84,1371,68,N,0,Wofford,Seton Hall
+2019,137,1138,91,1113,74,N,0,Buffalo,Arizona St
+2019,137,1181,85,1295,62,N,0,Duke,N Dakota St
+2019,137,1222,84,1209,55,N,0,Houston,Georgia St
+2019,137,1234,79,1153,72,N,0,Iowa,Cincinnati
+2019,137,1251,80,1280,76,N,0,Liberty,Mississippi St
+2019,137,1314,88,1233,73,N,0,North Carolina,Iona
+2019,137,1326,62,1235,59,N,0,Ohio St,Iowa St
+2019,137,1328,95,1279,72,N,0,Oklahoma,Mississippi
+2019,137,1332,72,1458,54,N,0,Oregon,Wisconsin
+2019,137,1397,77,1159,70,N,0,Tennessee,Colgate
+2019,137,1403,72,1297,57,N,0,Texas Tech,N Kentucky
+2019,137,1414,70,1243,64,N,0,UC Irvine,Kansas St
+2019,137,1416,73,1433,58,N,0,UCF,VCU
+2019,137,1438,71,1205,56,N,0,Virginia,Gardner Webb
+2019,137,1439,66,1387,52,N,0,Virginia Tech,St Louis
+2019,137,1449,78,1429,61,N,0,Washington,Utah St
+2019,138,1120,89,1242,75,N,0,Auburn,Kansas
+2019,138,1199,90,1293,62,N,0,Florida St,Murray St
+2019,138,1211,83,1124,71,N,0,Gonzaga,Baylor
+2019,138,1246,62,1459,56,N,0,Kentucky,Wofford
+2019,138,1261,69,1268,67,N,0,LSU,Maryland
+2019,138,1276,64,1196,49,N,0,Michigan,Florida
+2019,138,1277,70,1278,50,N,0,Michigan St,Minnesota
+2019,138,1345,87,1437,61,N,0,Purdue,Villanova
+2019,139,1181,77,1416,76,N,0,Duke,UCF
+2019,139,1222,74,1326,59,N,0,Houston,Ohio St
+2019,139,1314,81,1449,59,N,0,North Carolina,Washington
+2019,139,1332,73,1414,54,N,0,Oregon,UC Irvine
+2019,139,1397,83,1234,77,N,1,Tennessee,Iowa
+2019,139,1403,78,1138,58,N,0,Texas Tech,Buffalo
+2019,139,1438,63,1328,51,N,0,Virginia,Oklahoma
+2019,139,1439,67,1251,58,N,0,Virginia Tech,Liberty
+2019,143,1211,72,1199,58,N,0,Gonzaga,Florida St
+2019,143,1345,99,1397,94,N,1,Purdue,Tennessee
+2019,143,1403,63,1276,44,N,0,Texas Tech,Michigan
+2019,143,1438,53,1332,49,N,0,Virginia,Oregon
+2019,144,1120,97,1314,80,N,0,Auburn,North Carolina
+2019,144,1181,75,1439,73,N,0,Duke,Virginia Tech
+2019,144,1246,62,1222,58,N,0,Kentucky,Houston
+2019,144,1277,80,1261,63,N,0,Michigan St,LSU
+2019,145,1403,75,1211,69,N,0,Texas Tech,Gonzaga
+2019,145,1438,80,1345,75,N,1,Virginia,Purdue
+2019,146,1120,77,1246,71,N,1,Auburn,Kentucky
+2019,146,1277,68,1181,67,N,0,Michigan St,Duke
+2019,152,1403,61,1277,51,N,0,Texas Tech,Michigan St
+2019,152,1438,63,1120,62,N,0,Virginia,Auburn
+2019,154,1438,85,1403,77,N,1,Virginia,Texas Tech
+2021,136,1179,53,1455,52,N,0,Drake,Wichita St
+2021,136,1313,54,1111,53,N,0,Norfolk St,Appalachian St
+2021,136,1411,60,1291,52,N,0,TX Southern,Mt St Mary's
+2021,136,1417,86,1277,80,N,1,UCLA,Michigan St
+2021,137,1116,85,1159,68,N,0,Arkansas,Colgate
+2021,137,1124,79,1216,55,N,0,Baylor,Hartford
+2021,137,1196,75,1439,70,N,1,Florida,Virginia Tech
+2021,137,1222,87,1156,56,N,0,Houston,Cleveland St
+2021,137,1228,78,1180,49,N,0,Illinois,Drexel
+2021,137,1260,71,1210,60,N,0,Loyola-Chicago,Georgia Tech
+2021,137,1317,78,1345,69,N,1,North Texas,Purdue
+2021,137,1329,69,1251,60,N,0,Oklahoma St,Liberty
+2021,137,1331,75,1326,72,N,1,Oral Roberts,Ohio St
+2021,137,1333,70,1397,56,N,0,Oregon St,Tennessee
+2021,137,1353,60,1155,56,N,0,Rutgers,Clemson
+2021,137,1393,78,1361,62,N,0,Syracuse,San Diego St
+2021,137,1403,65,1429,53,N,0,Texas Tech,Utah St
+2021,137,1437,73,1457,63,N,0,Villanova,Winthrop
+2021,137,1452,84,1287,67,N,0,West Virginia,Morehead St
+2021,137,1458,85,1314,62,N,0,Wisconsin,North Carolina
+2021,138,1101,53,1400,52,N,0,Abilene Chr,Texas
+2021,138,1104,68,1233,55,N,0,Alabama,Iona
+2021,138,1160,96,1207,73,N,0,Colorado,Georgetown
+2021,138,1166,63,1364,62,N,0,Creighton,UC Santa Barbara
+2021,138,1199,64,1422,54,N,0,Florida St,UNC Greensboro
+2021,138,1211,98,1313,55,N,0,Gonzaga,Norfolk St
+2021,138,1234,86,1213,74,N,0,Iowa,Grand Canyon
+2021,138,1242,93,1186,84,N,0,Kansas,E Washington
+2021,138,1261,76,1382,61,N,0,LSU,St Bonaventure
+2021,138,1268,63,1163,54,N,0,Maryland,Connecticut
+2021,138,1276,82,1411,66,N,0,Michigan,TX Southern
+2021,138,1325,62,1438,58,N,0,Ohio,Virginia
+2021,138,1328,72,1281,68,N,0,Oklahoma,Missouri
+2021,138,1417,73,1140,62,N,0,UCLA,BYU
+2021,138,1425,72,1179,56,N,0,USC,Drake
+2021,139,1116,68,1403,66,N,0,Arkansas,Texas Tech
+2021,139,1124,76,1458,63,N,0,Baylor,Wisconsin
+2021,139,1222,63,1353,60,N,0,Houston,Rutgers
+2021,139,1260,71,1228,58,N,0,Loyola-Chicago,Illinois
+2021,139,1331,81,1196,78,N,0,Oral Roberts,Florida
+2021,139,1333,80,1329,70,N,0,Oregon St,Oklahoma St
+2021,139,1393,75,1452,72,N,0,Syracuse,West Virginia
+2021,139,1437,84,1317,61,N,0,Villanova,North Texas
+2021,140,1104,96,1268,77,N,0,Alabama,Maryland
+2021,140,1166,72,1325,58,N,0,Creighton,Ohio
+2021,140,1199,71,1160,53,N,0,Florida St,Colorado
+2021,140,1211,87,1328,71,N,0,Gonzaga,Oklahoma
+2021,140,1276,86,1261,78,N,0,Michigan,LSU
+2021,140,1332,95,1234,80,N,0,Oregon,Iowa
+2021,140,1417,67,1101,47,N,0,UCLA,Abilene Chr
+2021,140,1425,85,1242,51,N,0,USC,Kansas
+2021,145,1116,72,1331,70,N,0,Arkansas,Oral Roberts
+2021,145,1124,62,1437,51,N,0,Baylor,Villanova
+2021,145,1222,62,1393,46,N,0,Houston,Syracuse
+2021,145,1333,65,1260,58,N,0,Oregon St,Loyola-Chicago
+2021,146,1211,83,1166,65,N,0,Gonzaga,Creighton
+2021,146,1276,76,1199,58,N,0,Michigan,Florida St
+2021,146,1417,88,1104,78,N,1,UCLA,Alabama
+2021,146,1425,82,1332,68,N,0,USC,Oregon
+2021,147,1124,81,1116,72,N,0,Baylor,Arkansas
+2021,147,1222,67,1333,61,N,0,Houston,Oregon St
+2021,148,1211,85,1425,66,N,0,Gonzaga,USC
+2021,148,1417,51,1276,49,N,0,UCLA,Michigan
+2021,152,1124,78,1222,59,N,0,Baylor,Houston
+2021,152,1211,93,1417,90,N,1,Gonzaga,UCLA
+2021,154,1124,86,1211,70,N,0,Baylor,Gonzaga
+2022,134,1231,66,1461,58,N,0,Indiana,Wyoming
+2022,134,1411,76,1394,67,N,0,TX Southern,TAM C. Christi
+2022,135,1323,89,1353,87,N,2,Notre Dame,Rutgers
+2022,135,1460,93,1136,82,N,0,Wright St,Bryant
+2022,136,1116,75,1436,71,N,0,Arkansas,Vermont
+2022,136,1124,85,1313,49,N,0,Baylor,Norfolk St
+2022,136,1166,72,1361,69,N,1,Creighton,San Diego St
+2022,136,1211,93,1209,72,N,0,Gonzaga,Georgia St
+2022,136,1242,83,1411,56,N,0,Kansas,TX Southern
+2022,136,1272,64,1129,53,N,0,Memphis,Boise St
+2022,136,1276,75,1161,63,N,0,Michigan,Colorado St
+2022,136,1293,92,1362,87,N,1,Murray St,San Francisco
+2022,136,1308,70,1163,63,N,0,New Mexico St,Connecticut
+2022,136,1314,95,1266,63,N,0,North Carolina,Marquette
+2022,136,1344,66,1355,57,N,0,Providence,S Dakota St
+2022,136,1350,67,1234,63,N,0,Richmond,Iowa
+2022,136,1388,82,1231,53,N,0,St Mary's CA,Indiana
+2022,136,1389,85,1246,79,N,1,St Peter's,Kentucky
+2022,136,1397,88,1255,56,N,0,Tennessee,Longwood
+2022,136,1417,57,1103,53,N,0,UCLA,Akron
+2022,137,1112,87,1460,70,N,0,Arizona,Wright St
+2022,137,1120,80,1240,61,N,0,Auburn,Jacksonville St
+2022,137,1181,78,1168,61,N,0,Duke,CS Fullerton
+2022,137,1222,82,1412,68,N,0,Houston,UAB
+2022,137,1228,54,1151,53,N,0,Illinois,Chattanooga
+2022,137,1235,59,1261,54,N,0,Iowa St,LSU
+2022,137,1274,68,1425,66,N,0,Miami FL,USC
+2022,137,1277,74,1172,73,N,0,Michigan St,Davidson
+2022,137,1323,78,1104,64,N,0,Notre Dame,Alabama
+2022,137,1326,54,1260,41,N,0,Ohio St,Loyola-Chicago
+2022,137,1345,78,1463,56,N,0,Purdue,Yale
+2022,137,1395,69,1371,42,N,0,TCU,Seton Hall
+2022,137,1400,81,1439,73,N,0,Texas,Virginia Tech
+2022,137,1403,97,1286,62,N,0,Texas Tech,Montana St
+2022,137,1437,80,1174,60,N,0,Villanova,Delaware
+2022,137,1458,67,1159,60,N,0,Wisconsin,Colgate
+2022,138,1116,53,1308,48,N,0,Arkansas,New Mexico St
+2022,138,1211,82,1272,78,N,0,Gonzaga,Memphis
+2022,138,1242,79,1166,72,N,0,Kansas,Creighton
+2022,138,1276,76,1397,68,N,0,Michigan,Tennessee
+2022,138,1314,93,1124,86,N,1,North Carolina,Baylor
+2022,138,1344,79,1350,51,N,0,Providence,Richmond
+2022,138,1389,70,1293,60,N,0,St Peter's,Murray St
+2022,138,1417,72,1388,56,N,0,UCLA,St Mary's CA
+2022,139,1112,85,1395,80,N,1,Arizona,TCU
+2022,139,1181,85,1277,76,N,0,Duke,Michigan St
+2022,139,1222,68,1228,53,N,0,Houston,Illinois
+2022,139,1235,54,1458,49,N,0,Iowa St,Wisconsin
+2022,139,1274,79,1120,61,N,0,Miami FL,Auburn
+2022,139,1345,81,1400,71,N,0,Purdue,Texas
+2022,139,1403,59,1323,53,N,0,Texas Tech,Notre Dame
+2022,139,1437,71,1326,61,N,0,Villanova,Ohio St
+2022,143,1116,74,1211,68,N,0,Arkansas,Gonzaga
+2022,143,1181,78,1403,73,N,0,Duke,Texas Tech
+2022,143,1222,72,1112,60,N,0,Houston,Arizona
+2022,143,1437,63,1276,55,N,0,Villanova,Michigan
+2022,144,1242,66,1344,61,N,0,Kansas,Providence
+2022,144,1274,70,1235,56,N,0,Miami FL,Iowa St
+2022,144,1314,73,1417,66,N,0,North Carolina,UCLA
+2022,144,1389,67,1345,64,N,0,St Peter's,Purdue
+2022,145,1181,78,1116,69,N,0,Duke,Arkansas
+2022,145,1437,50,1222,44,N,0,Villanova,Houston
+2022,146,1242,76,1274,50,N,0,Kansas,Miami FL
+2022,146,1314,69,1389,49,N,0,North Carolina,St Peter's
+2022,152,1242,81,1437,65,N,0,Kansas,Villanova
+2022,152,1314,81,1181,77,N,0,North Carolina,Duke
+2022,154,1242,72,1314,69,N,0,Kansas,North Carolina
+2023,134,1338,60,1280,59,N,0,Pittsburgh,Mississippi St
+2023,134,1394,75,1369,71,N,0,TAM C. Christi,SE Missouri St
+2023,135,1113,98,1305,73,N,0,Arizona St,Nevada
+2023,135,1192,84,1411,61,N,0,F Dickinson,TX Southern
+2023,136,1104,96,1394,75,N,0,Alabama,TAM C. Christi
+2023,136,1116,73,1228,63,N,0,Arkansas,Illinois
+2023,136,1120,83,1234,75,N,0,Auburn,Iowa
+2023,136,1181,74,1331,51,N,0,Duke,Oral Roberts
+2023,136,1202,68,1438,67,N,0,Furman,Virginia
+2023,136,1222,63,1297,52,N,0,Houston,N Kentucky
+2023,136,1242,96,1224,68,N,0,Kansas,Howard
+2023,136,1268,67,1452,65,N,0,Maryland,West Virginia
+2023,136,1281,76,1429,65,N,0,Missouri,Utah St
+2023,136,1321,75,1129,67,N,0,Northwestern,Boise St
+2023,136,1336,76,1401,59,N,0,Penn St,Texas A&M
+2023,136,1343,59,1112,55,N,0,Princeton,Arizona
+2023,136,1361,63,1158,57,N,0,San Diego St,Col Charleston
+2023,136,1397,58,1418,55,N,0,Tennessee,Louisiana
+2023,136,1400,81,1159,61,N,0,Texas,Colgate
+2023,136,1417,86,1421,53,N,0,UCLA,UNC Asheville
+2023,137,1124,74,1364,56,N,0,Baylor,UC Santa Barbara
+2023,137,1163,87,1233,63,N,0,Connecticut,Iona
+2023,137,1166,72,1301,63,N,0,Creighton,NC State
+2023,137,1192,63,1345,58,N,0,F Dickinson,Purdue
+2023,137,1194,66,1272,65,N,0,FL Atlantic,Memphis
+2023,137,1211,82,1213,70,N,0,Gonzaga,Grand Canyon
+2023,137,1231,71,1245,60,N,0,Indiana,Kent
+2023,137,1243,77,1286,65,N,0,Kansas St,Montana St
+2023,137,1246,61,1344,53,N,0,Kentucky,Providence
+2023,137,1266,78,1436,61,N,0,Marquette,Vermont
+2023,137,1274,63,1179,56,N,0,Miami FL,Drake
+2023,137,1277,72,1425,62,N,0,Michigan St,USC
+2023,137,1338,59,1235,41,N,0,Pittsburgh,Iowa St
+2023,137,1388,63,1433,51,N,0,St Mary's CA,VCU
+2023,137,1395,72,1113,70,N,0,TCU,Arizona St
+2023,137,1462,72,1244,67,N,0,Xavier,Kennesaw
+2023,138,1104,73,1268,51,N,0,Alabama,Maryland
+2023,138,1116,72,1242,71,N,0,Arkansas,Kansas
+2023,138,1222,81,1120,64,N,0,Houston,Auburn
+2023,138,1343,78,1281,63,N,0,Princeton,Missouri
+2023,138,1361,75,1202,52,N,0,San Diego St,Furman
+2023,138,1397,65,1181,52,N,0,Tennessee,Duke
+2023,138,1400,71,1336,66,N,0,Texas,Penn St
+2023,138,1417,68,1321,63,N,0,UCLA,Northwestern
+2023,139,1163,70,1388,55,N,0,Connecticut,St Mary's CA
+2023,139,1166,85,1124,76,N,0,Creighton,Baylor
+2023,139,1194,78,1192,70,N,0,FL Atlantic,F Dickinson
+2023,139,1211,84,1395,81,N,0,Gonzaga,TCU
+2023,139,1243,75,1246,69,N,0,Kansas St,Kentucky
+2023,139,1274,85,1231,69,N,0,Miami FL,Indiana
+2023,139,1277,69,1266,60,N,0,Michigan St,Marquette
+2023,139,1462,84,1338,73,N,0,Xavier,Pittsburgh
+2023,143,1163,88,1116,65,N,0,Connecticut,Arkansas
+2023,143,1194,62,1397,55,N,0,FL Atlantic,Tennessee
+2023,143,1211,79,1417,76,N,0,Gonzaga,UCLA
+2023,143,1243,98,1277,93,N,1,Kansas St,Michigan St
+2023,144,1166,86,1343,75,N,0,Creighton,Princeton
+2023,144,1274,89,1222,75,N,0,Miami FL,Houston
+2023,144,1361,71,1104,64,N,0,San Diego St,Alabama
+2023,144,1400,83,1462,71,N,0,Texas,Xavier
+2023,145,1163,82,1211,54,N,0,Connecticut,Gonzaga
+2023,145,1194,79,1243,76,N,0,FL Atlantic,Kansas St
+2023,146,1274,88,1400,81,N,0,Miami FL,Texas
+2023,146,1361,57,1166,56,N,0,San Diego St,Creighton
+2023,152,1163,72,1274,59,N,0,Connecticut,Miami FL
+2023,152,1361,72,1194,71,N,0,San Diego St,FL Atlantic
+2023,154,1163,76,1361,59,N,0,Connecticut,San Diego St
+2024,134,1161,67,1438,42,N,0,Colorado St,Virginia
+2024,134,1447,71,1224,68,N,0,Wagner,Howard
+2024,135,1160,60,1129,53,N,0,Colorado,Boise St
+2024,135,1212,88,1286,81,N,0,Grambling,Montana St
+2024,136,1112,85,1253,65,N,0,Arizona,Long Beach St
+2024,136,1166,77,1103,60,N,0,Creighton,Akron
+2024,136,1173,63,1305,60,N,0,Dayton,Nevada
+2024,136,1182,71,1140,67,N,0,Duquesne,BYU
+2024,136,1211,86,1270,65,N,0,Gonzaga,McNeese St
+2024,136,1228,85,1287,69,N,0,Illinois,Morehead St
+2024,136,1235,82,1355,65,N,0,Iowa St,S Dakota St
+2024,136,1242,93,1359,89,N,0,Kansas,Samford
+2024,136,1277,69,1280,51,N,0,Michigan St,Mississippi St
+2024,136,1301,80,1403,67,N,0,NC State,Texas Tech
+2024,136,1314,90,1447,62,N,0,North Carolina,Wagner
+2024,136,1324,80,1246,76,N,0,Oakland,Kentucky
+2024,136,1332,87,1376,73,N,0,Oregon,South Carolina
+2024,136,1397,83,1389,49,N,0,Tennessee,St Peter's
+2024,136,1400,56,1161,44,N,0,Texas,Colorado St
+2024,136,1450,66,1179,61,N,0,Washington St,Drake
+2024,137,1104,109,1158,96,N,0,Alabama,Col Charleston
+2024,137,1124,92,1159,67,N,0,Baylor,Colgate
+2024,137,1155,77,1307,56,N,0,Clemson,New Mexico
+2024,137,1160,102,1196,100,N,0,Colorado,Florida
+2024,137,1163,91,1391,52,N,0,Connecticut,Stetson
+2024,137,1181,64,1436,47,N,0,Duke,Vermont
+2024,137,1213,75,1388,66,N,0,Grand Canyon,St Mary's CA
+2024,137,1222,86,1255,46,N,0,Houston,Longwood
+2024,137,1241,72,1458,61,N,0,James Madison,Wisconsin
+2024,137,1266,87,1443,69,N,0,Marquette,WKU
+2024,137,1321,77,1194,65,N,0,Northwestern,FL Atlantic
+2024,137,1345,78,1212,50,N,0,Purdue,Grambling
+2024,137,1361,69,1412,65,N,0,San Diego St,UAB
+2024,137,1401,98,1304,83,N,0,Texas A&M,Nebraska
+2024,137,1429,88,1395,72,N,0,Utah St,TCU
+2024,137,1463,78,1120,76,N,0,Yale,Auburn
+2024,138,1112,78,1173,68,N,0,Arizona,Dayton
+2024,138,1166,86,1332,73,N,0,Creighton,Oregon
+2024,138,1211,89,1242,68,N,0,Gonzaga,Kansas
+2024,138,1228,89,1182,63,N,0,Illinois,Duquesne
+2024,138,1235,67,1450,56,N,0,Iowa St,Washington St
+2024,138,1301,79,1324,73,N,0,NC State,Oakland
+2024,138,1314,85,1277,69,N,0,North Carolina,Michigan St
+2024,138,1397,62,1400,58,N,0,Tennessee,Texas
+2024,139,1104,72,1213,61,N,0,Alabama,Grand Canyon
+2024,139,1155,72,1124,64,N,0,Clemson,Baylor
+2024,139,1163,75,1321,58,N,0,Connecticut,Northwestern
+2024,139,1181,93,1241,55,N,0,Duke,James Madison
+2024,139,1222,100,1401,95,N,0,Houston,Texas A&M
+2024,139,1266,81,1160,77,N,0,Marquette,Colorado
+2024,139,1345,106,1429,67,N,0,Purdue,Utah St
+2024,139,1361,85,1463,57,N,0,San Diego St,Yale
+2024,143,1104,89,1314,87,N,0,Alabama,North Carolina
+2024,143,1155,77,1112,72,N,0,Clemson,Arizona
+2024,143,1163,82,1361,52,N,0,Connecticut,San Diego St
+2024,143,1228,72,1235,69,N,0,Illinois,Iowa St
+2024,144,1181,54,1222,51,N,0,Duke,Houston
+2024,144,1301,67,1266,58,N,0,NC State,Marquette
+2024,144,1345,80,1211,68,N,0,Purdue,Gonzaga
+2024,144,1397,82,1166,75,N,0,Tennessee,Creighton
+2024,145,1104,89,1155,82,N,0,Alabama,Clemson
+2024,145,1163,77,1228,52,N,0,Connecticut,Illinois
+2024,146,1301,76,1181,64,N,0,NC State,Duke
+2024,146,1345,72,1397,66,N,0,Purdue,Tennessee
+2024,152,1163,86,1104,72,N,0,Connecticut,Alabama
+2024,152,1345,63,1301,50,N,0,Purdue,NC State
+2024,154,1163,75,1345,60,N,0,Connecticut,Purdue
+2025,134,1106,70,1384,68,N,0,Alabama St,St Francis PA
+2025,134,1314,95,1361,68,N,0,North Carolina,San Diego St
+2025,135,1291,83,1110,72,N,0,Mt St Mary's,American Univ
+2025,135,1462,86,1400,80,N,0,Xavier,Texas
+2025,136,1116,79,1242,72,N,0,Arkansas,Kansas
+2025,136,1120,83,1106,63,N,0,Auburn,Alabama St
+2025,136,1140,80,1433,71,N,0,BYU,VCU
+2025,136,1166,89,1257,75,N,0,Creighton,Louisville
+2025,136,1179,67,1281,57,N,0,Drake,Missouri
+2025,136,1211,89,1208,68,N,0,Gonzaga,Georgia
+2025,136,1222,78,1188,40,N,0,Houston,SIUE
+2025,136,1270,69,1155,67,N,0,McNeese St,Clemson
+2025,136,1276,68,1471,65,N,0,Michigan,UC San Diego
+2025,136,1345,75,1219,63,N,0,Purdue,High Point
+2025,136,1385,83,1303,53,N,0,St John's,NE Omaha
+2025,136,1397,77,1459,62,N,0,Tennessee,Wofford
+2025,136,1401,80,1463,71,N,0,Texas A&M,Yale
+2025,136,1403,82,1423,72,N,0,Texas Tech,UNC Wilmington
+2025,136,1417,72,1429,47,N,0,UCLA,Utah St
+2025,136,1458,85,1285,66,N,0,Wisconsin,Montana
+2025,137,1104,90,1352,81,N,0,Alabama,Robert Morris
+2025,137,1112,93,1103,65,N,0,Arizona,Akron
+2025,137,1124,75,1280,72,N,0,Baylor,Mississippi St
+2025,137,1161,78,1272,70,N,0,Colorado St,Memphis
+2025,137,1163,67,1328,59,N,0,Connecticut,Oklahoma
+2025,137,1181,93,1291,49,N,0,Duke,Mt St Mary's
+2025,137,1196,95,1313,69,N,0,Florida,Norfolk St
+2025,137,1228,86,1462,73,N,0,Illinois,Xavier
+2025,137,1235,82,1252,55,N,0,Iowa St,Lipscomb
+2025,137,1246,76,1407,57,N,0,Kentucky,Troy
+2025,137,1268,81,1213,49,N,0,Maryland,Grand Canyon
+2025,137,1277,87,1136,62,N,0,Michigan St,Bryant
+2025,137,1279,71,1314,64,N,0,Mississippi,North Carolina
+2025,137,1307,75,1266,66,N,0,New Mexico,Marquette
+2025,137,1332,81,1251,52,N,0,Oregon,Liberty
+2025,137,1388,59,1435,56,N,0,St Mary's CA,Vanderbilt
+2025,138,1116,75,1385,66,N,0,Arkansas,St John's
+2025,138,1120,82,1166,70,N,0,Auburn,Creighton
+2025,138,1140,91,1458,89,N,0,BYU,Wisconsin
+2025,138,1222,81,1211,76,N,0,Houston,Gonzaga
+2025,138,1276,91,1401,79,N,0,Michigan,Texas A&M
+2025,138,1345,76,1270,62,N,0,Purdue,McNeese St
+2025,138,1397,67,1417,58,N,0,Tennessee,UCLA
+2025,138,1403,77,1179,64,N,0,Texas Tech,Drake
+2025,139,1104,80,1388,66,N,0,Alabama,St Mary's CA
+2025,139,1112,87,1332,83,N,0,Arizona,Oregon
+2025,139,1181,89,1124,66,N,0,Duke,Baylor
+2025,139,1196,77,1163,75,N,0,Florida,Connecticut
+2025,139,1246,84,1228,75,N,0,Kentucky,Illinois
+2025,139,1268,72,1161,71,N,0,Maryland,Colorado St
+2025,139,1277,71,1307,63,N,0,Michigan St,New Mexico
+2025,139,1279,91,1235,78,N,0,Mississippi,Iowa St
+2025,143,1104,113,1140,88,N,0,Alabama,BYU
+2025,143,1181,100,1112,93,N,0,Duke,Arizona
+2025,143,1196,87,1268,71,N,0,Florida,Maryland
+2025,143,1403,85,1116,83,N,1,Texas Tech,Arkansas
+2025,144,1120,78,1276,65,N,0,Auburn,Michigan
+2025,144,1222,62,1345,60,N,0,Houston,Purdue
+2025,144,1277,73,1279,70,N,0,Michigan St,Mississippi
+2025,144,1397,78,1246,65,N,0,Tennessee,Kentucky
+2025,145,1181,85,1104,65,N,0,Duke,Alabama
+2025,145,1196,84,1403,79,N,0,Florida,Texas Tech
+2025,146,1120,70,1277,64,N,0,Auburn,Michigan St
+2025,146,1222,69,1397,50,N,0,Houston,Tennessee
+2025,152,1196,79,1120,73,N,0,Florida,Auburn
+2025,152,1222,70,1181,67,N,0,Houston,Duke
+2025,154,1196,65,1222,63,N,0,Florida,Houston
